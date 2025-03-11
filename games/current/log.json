@@ -1479,7 +1479,7 @@
     "time": "2025-03-10T15:19:23.549Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/867422e0574f801f21f015d0a0463d296d93fad6/games/current/board.3997.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -1489,5 +1489,22 @@
     "fromPosition": 11,
     "toPosition": 13,
     "roll": 2
+  },
+  {
+    "username": "AiOT-TriTDD",
+    "issue": 3998,
+    "time": "2025-03-11T06:26:11.006Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 3,
+    "toPosition": 6,
+    "roll": 3
   }
 ]
