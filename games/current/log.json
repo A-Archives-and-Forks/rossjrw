@@ -1666,7 +1666,7 @@
     "time": "2025-03-11T14:41:12.088Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/8d6b7fedf0a05007a9e97ad1ec7389f068060c16/games/current/board.4008.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -1676,5 +1676,22 @@
     "fromPosition": 0,
     "toPosition": 2,
     "roll": 2
+  },
+  {
+    "username": "AleksandrNevskyi",
+    "issue": 4009,
+    "time": "2025-03-12T12:42:08.418Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 1,
+    "roll": 1
   }
 ]
