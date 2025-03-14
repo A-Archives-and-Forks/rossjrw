@@ -1734,7 +1734,7 @@
     "time": "2025-03-12T15:54:48.746Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/bc61d590d29490286eece2f87e5363ea48790d7f/games/current/board.4013.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -1744,5 +1744,22 @@
     "fromPosition": 4,
     "toPosition": 7,
     "roll": 3
+  },
+  {
+    "username": "CloutKhan",
+    "issue": 4014,
+    "time": "2025-03-14T03:49:24.580Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 1,
+    "toPosition": 2,
+    "roll": 1
   }
 ]
