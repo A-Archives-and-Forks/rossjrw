@@ -1768,7 +1768,7 @@
     "time": "2025-03-14T04:36:26.525Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/5dacf16dc55e33b5c0695a785deaba233da0254c/games/current/board.4015.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -1777,6 +1777,23 @@
     },
     "fromPosition": 8,
     "toPosition": 10,
+    "roll": 2
+  },
+  {
+    "username": "DakshVarshney1409",
+    "issue": 4016,
+    "time": "2025-03-14T17:52:13.032Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 2,
+    "toPosition": 4,
     "roll": 2
   }
 ]
