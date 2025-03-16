@@ -1785,7 +1785,7 @@
     "time": "2025-03-14T17:52:13.032Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/cbca8fcb87db99b96176bad7abc2405dc8d5740a/games/current/board.4016.svg",
     "events": {
       "rosetteClaimed": true,
       "captureHappened": false,
@@ -1795,5 +1795,22 @@
     "fromPosition": 2,
     "toPosition": 4,
     "roll": 2
+  },
+  {
+    "username": "StackOverflowIsBetterThanAnyAI",
+    "issue": 4017,
+    "time": "2025-03-16T21:38:21.364Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 4,
+    "toPosition": 5,
+    "roll": 1
   }
 ]
