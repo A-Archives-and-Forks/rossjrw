@@ -1819,7 +1819,7 @@
     "time": "2025-03-16T22:56:07.715Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/74533388eedd1314625cd1e8d584d4c4d91ccb1b/games/current/board.4018.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -1829,5 +1829,22 @@
     "fromPosition": 10,
     "toPosition": 13,
     "roll": 3
+  },
+  {
+    "username": "Spuddex",
+    "issue": 4019,
+    "time": "2025-03-17T20:45:49.755Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": true,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 5,
+    "toPosition": 7,
+    "roll": 2
   }
 ]
