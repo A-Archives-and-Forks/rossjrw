@@ -1853,6 +1853,23 @@
     "time": "2025-03-17T21:33:27.793Z",
     "team": "w",
     "action": "move",
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/b446102106e8ab0c814f5d416607765ec95b51df/games/current/board.4020.svg",
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 3,
+    "roll": 3
+  },
+  {
+    "username": "polexka",
+    "issue": 4021,
+    "time": "2025-03-18T22:49:55.435Z",
+    "team": "b",
+    "action": "move",
     "boardImage": null,
     "events": {
       "rosetteClaimed": false,
