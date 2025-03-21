@@ -1904,7 +1904,7 @@
     "time": "2025-03-18T23:03:42.009Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/6e573f95dd312c800cad38817adbe4c586144bf4/games/current/board.4023.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -1914,5 +1914,22 @@
     "fromPosition": 13,
     "toPosition": 15,
     "roll": 2
+  },
+  {
+    "username": "Pedrenri",
+    "issue": 4024,
+    "time": "2025-03-21T14:59:13.959Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 7,
+    "toPosition": 10,
+    "roll": 3
   }
 ]
