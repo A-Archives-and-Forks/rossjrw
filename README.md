@@ -5,7 +5,7 @@ We're playing
 
 <p align="center">
   <b>It's the
-  :white_circle:white
+  :black_circle:black
   team's turn.</b>
 </p>
 
@@ -16,17 +16,19 @@ You're on a team! :wave:
   check back later, or [ask a
   friend](https://twitter.com/share?text=I'm+playing+The+Royal+Game+of+Ur+on+a+GitHub+profile.+Take+your+turn+at+https://github.com/rossjrw/rossjrw+%23RoyalGameOfUr+%23github) to make a move.
 * If you've not yet played a turn this game, make a move now to join the
-  **:white_circle:white** team.
+  **:black_circle:black** team.
 
-<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4024.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4025.svg"></p>
 
-  **:white_circle:White team:**
-  You rolled a 1!
+  **:black_circle:Black team:**
+  You rolled a 2!
 What would you like to do?
 
 | Choices *(pick one of them!)* |
 | --- |
-  | [    Move the piece on tile 4 to tile 5](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%404-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move a new piece to tile 2](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%400-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [ :crossed_swords:   Move the piece on tile 3 to tile 5](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%403-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move the piece on tile 10 to tile 12](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%4010-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
 
 -----
 
@@ -46,7 +48,7 @@ What would you like to do?
       </tr>
       <tr align="center">
         <td><b><a href="https://github.com/AdityaSreevatsaK">@AdityaSreevatsaK</a></b> (26)<br><b><a href="https://github.com/LucasFASouza">@LucasFASouza</a></b> (10)<br><b><a href="https://github.com/hoprik">@hoprik</a></b> (1)<br><b><a href="https://github.com/exeNyx7">@exeNyx7</a></b> (1)<br><b><a href="https://github.com/Jaliz9087">@Jaliz9087</a></b> (1)<br><b><a href="https://github.com/tolstenko">@tolstenko</a></b> (1)<br><b><a href="https://github.com/munneth">@munneth</a></b> (1)<br><b><a href="https://github.com/uknes">@uknes</a></b> (1)<br><b><a href="https://github.com/JadeFluteSwordsmanship">@JadeFluteSwordsmanship</a></b> (1)<br><b><a href="https://github.com/Retak18">@Retak18</a></b> (1)<br><b><a href="https://github.com/AnibalSV">@AnibalSV</a></b> (1)<br><b><a href="https://github.com/Gor0d">@Gor0d</a></b> (1)<br><b><a href="https://github.com/mohsinziaa">@mohsinziaa</a></b> (1)<br><b><a href="https://github.com/AiOT-TriTDD">@AiOT-TriTDD</a></b> (1)<br><b><a href="https://github.com/AleksandrNevskyi">@AleksandrNevskyi</a></b> (1)<br><b><a href="https://github.com/CloutKhan">@CloutKhan</a></b> (1)<br><b><a href="https://github.com/DakshVarshney1409">@DakshVarshney1409</a></b> (1)<br><b><a href="https://github.com/StackOverflowIsBetterThanAnyAI">@StackOverflowIsBetterThanAnyAI</a></b> (1)<br><b><a href="https://github.com/Spuddex">@Spuddex</a></b> (1)<br><b><a href="https://github.com/polexka">@polexka</a></b> (1)<br><b><a href="https://github.com/Pedrenri">@Pedrenri</a></b> (1)</td>
-        <td><b><a href="https://github.com/Casper-Guo">@Casper-Guo</a></b> (50)<br><b><a href="https://github.com/MatissesProjects">@MatissesProjects</a></b> (7)<br><b><a href="https://github.com/DeeLaw-01">@DeeLaw-01</a></b> (1)<br><b><a href="https://github.com/RichardBotic">@RichardBotic</a></b> (1)</td>
+        <td><b><a href="https://github.com/Casper-Guo">@Casper-Guo</a></b> (50)<br><b><a href="https://github.com/MatissesProjects">@MatissesProjects</a></b> (8)<br><b><a href="https://github.com/DeeLaw-01">@DeeLaw-01</a></b> (1)<br><b><a href="https://github.com/RichardBotic">@RichardBotic</a></b> (1)</td>
       </tr>
     </tbody>
   </table>
@@ -168,7 +170,8 @@ What would you like to do?
   | 18th Mar 2025 22:49 | **110** | :black_circle: **[@polexka](https://github.com/polexka)** moved a black piece onto the board to position 3    | [#4021](https://github.com/rossjrw/rossjrw/issues/4021) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/cea9c19362ed8e7aaa7b8e734913afc39b551d52/games/current/board.4021.svg) |
   | 18th Mar 2025 22:59 | **111** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 3 to position 4  — claimed a rosette :rosette:  | [#4022](https://github.com/rossjrw/rossjrw/issues/4022) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/bad5eca19b9e717ad1aa54e88dd512c62933db83/games/current/board.4022.svg) |
   | 18th Mar 2025 23:03 | **112** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** ascended a white piece from position 13 :rocket:    | [#4023](https://github.com/rossjrw/rossjrw/issues/4023) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/6e573f95dd312c800cad38817adbe4c586144bf4/games/current/board.4023.svg) |
-  | 21st Mar 2025 14:59 | **113** | :black_circle: **[@Pedrenri](https://github.com/Pedrenri)** moved a black piece from position 7 to position 10    | [#4024](https://github.com/rossjrw/rossjrw/issues/4024) |  |
+  | 21st Mar 2025 14:59 | **113** | :black_circle: **[@Pedrenri](https://github.com/Pedrenri)** moved a black piece from position 7 to position 10    | [#4024](https://github.com/rossjrw/rossjrw/issues/4024) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/f13f7aa808e471c807e0f4759b35590636de034e/games/current/board.4024.svg) |
+  | 22nd Mar 2025 20:59 | **114** | :white_circle: **[@MatissesProjects](https://github.com/MatissesProjects)** moved a white piece from position 4 to position 5    | [#4025](https://github.com/rossjrw/rossjrw/issues/4025) |  |
 
 </details>
 
