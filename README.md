@@ -5,7 +5,7 @@ We're playing
 
 <p align="center">
   <b>It's the
-  :white_circle:white
+  :black_circle:black
   team's turn.</b>
 </p>
 
@@ -16,17 +16,18 @@ You're on a team! :wave:
   check back later, or [ask a
   friend](https://twitter.com/share?text=I'm+playing+The+Royal+Game+of+Ur+on+a+GitHub+profile.+Take+your+turn+at+https://github.com/rossjrw/rossjrw+%23RoyalGameOfUr+%23github) to make a move.
 * If you've not yet played a turn this game, make a move now to join the
-  **:white_circle:white** team.
+  **:black_circle:black** team.
 
-<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4028.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4029.svg"></p>
 
-  **:white_circle:White team:**
+  **:black_circle:Black team:**
   You rolled a 2!
 What would you like to do?
 
 | Choices *(pick one of them!)* |
 | --- |
-  | [ :crossed_swords:   Move the piece on tile 8 to tile 10](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%408-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move a new piece to tile 2](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%400-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move the piece on tile 5 to tile 7](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%405-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
 
 -----
 
@@ -46,7 +47,7 @@ What would you like to do?
       </tr>
       <tr align="center">
         <td><b><a href="https://github.com/AdityaSreevatsaK">@AdityaSreevatsaK</a></b> (26)<br><b><a href="https://github.com/LucasFASouza">@LucasFASouza</a></b> (10)<br><b><a href="https://github.com/hoprik">@hoprik</a></b> (1)<br><b><a href="https://github.com/exeNyx7">@exeNyx7</a></b> (1)<br><b><a href="https://github.com/Jaliz9087">@Jaliz9087</a></b> (1)<br><b><a href="https://github.com/tolstenko">@tolstenko</a></b> (1)<br><b><a href="https://github.com/munneth">@munneth</a></b> (1)<br><b><a href="https://github.com/uknes">@uknes</a></b> (1)<br><b><a href="https://github.com/JadeFluteSwordsmanship">@JadeFluteSwordsmanship</a></b> (1)<br><b><a href="https://github.com/Retak18">@Retak18</a></b> (1)<br><b><a href="https://github.com/AnibalSV">@AnibalSV</a></b> (1)<br><b><a href="https://github.com/Gor0d">@Gor0d</a></b> (1)<br><b><a href="https://github.com/mohsinziaa">@mohsinziaa</a></b> (1)<br><b><a href="https://github.com/AiOT-TriTDD">@AiOT-TriTDD</a></b> (1)<br><b><a href="https://github.com/AleksandrNevskyi">@AleksandrNevskyi</a></b> (1)<br><b><a href="https://github.com/CloutKhan">@CloutKhan</a></b> (1)<br><b><a href="https://github.com/DakshVarshney1409">@DakshVarshney1409</a></b> (1)<br><b><a href="https://github.com/StackOverflowIsBetterThanAnyAI">@StackOverflowIsBetterThanAnyAI</a></b> (1)<br><b><a href="https://github.com/Spuddex">@Spuddex</a></b> (1)<br><b><a href="https://github.com/polexka">@polexka</a></b> (1)<br><b><a href="https://github.com/Pedrenri">@Pedrenri</a></b> (1)<br><b><a href="https://github.com/April-Gras">@April-Gras</a></b> (1)</td>
-        <td><b><a href="https://github.com/Casper-Guo">@Casper-Guo</a></b> (50)<br><b><a href="https://github.com/MatissesProjects">@MatissesProjects</a></b> (8)<br><b><a href="https://github.com/Hans5958">@Hans5958</a></b> (2)<br><b><a href="https://github.com/DeeLaw-01">@DeeLaw-01</a></b> (1)<br><b><a href="https://github.com/RichardBotic">@RichardBotic</a></b> (1)</td>
+        <td><b><a href="https://github.com/Casper-Guo">@Casper-Guo</a></b> (50)<br><b><a href="https://github.com/MatissesProjects">@MatissesProjects</a></b> (8)<br><b><a href="https://github.com/Hans5958">@Hans5958</a></b> (3)<br><b><a href="https://github.com/DeeLaw-01">@DeeLaw-01</a></b> (1)<br><b><a href="https://github.com/RichardBotic">@RichardBotic</a></b> (1)</td>
       </tr>
     </tbody>
   </table>
@@ -172,7 +173,8 @@ What would you like to do?
   | 22nd Mar 2025 20:59 | **114** | :white_circle: **[@MatissesProjects](https://github.com/MatissesProjects)** moved a white piece from position 4 to position 5    | [#4025](https://github.com/rossjrw/rossjrw/issues/4025) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/310f9d76bad34cde7fc9e6d7f4fb6180e9acd31b/games/current/board.4025.svg) |
   | 26th Mar 2025 08:48 | **115** | :black_circle: **[@April-Gras](https://github.com/April-Gras)** moved a black piece from position 3 to position 5 — captured a white piece :crossed_swords:   | [#4026](https://github.com/rossjrw/rossjrw/issues/4026) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/ae8733a8974dd323c4076ee49e3a267b5694f7ef/games/current/board.4026.svg) |
   | 27th Mar 2025 04:38 | **116** | :white_circle: **[@Hans5958](https://github.com/Hans5958)** moved a white piece onto the board to position 4  — claimed a rosette :rosette:  | [#4027](https://github.com/rossjrw/rossjrw/issues/4027) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/ed5e9843721197eec6063750f831f807b184f358/games/current/board.4027.svg) |
-  | 27th Mar 2025 04:38 | **117** | :white_circle: **[@Hans5958](https://github.com/Hans5958)** moved a white piece from position 4 to position 8  — claimed a rosette :rosette:  | [#4028](https://github.com/rossjrw/rossjrw/issues/4028) |  |
+  | 27th Mar 2025 04:38 | **117** | :white_circle: **[@Hans5958](https://github.com/Hans5958)** moved a white piece from position 4 to position 8  — claimed a rosette :rosette:  | [#4028](https://github.com/rossjrw/rossjrw/issues/4028) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/663b7d47906ef84c8fbfc89ad24978d3db4650e6/games/current/board.4028.svg) |
+  | 27th Mar 2025 04:38 | **118** | :white_circle: **[@Hans5958](https://github.com/Hans5958)** moved a white piece from position 8 to position 10 — captured a black piece :crossed_swords:   | [#4029](https://github.com/rossjrw/rossjrw/issues/4029) |  |
 
 </details>
 
