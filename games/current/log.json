@@ -2023,7 +2023,7 @@
     "time": "2025-03-27T14:59:39.833Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/5d96e1d9396a45800ac4ed8851e826c1d70a75e9/games/current/board.4030.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -2033,5 +2033,22 @@
     "fromPosition": 0,
     "toPosition": 2,
     "roll": 2
+  },
+  {
+    "username": "Seanmmajor",
+    "issue": 4031,
+    "time": "2025-03-31T15:46:04.594Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 10,
+    "toPosition": 11,
+    "roll": 1
   }
 ]
