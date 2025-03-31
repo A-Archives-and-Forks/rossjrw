@@ -2057,7 +2057,7 @@
     "time": "2025-03-31T19:29:26.129Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/3aaaf15d7f286429f2f15bea50849157968b4872/games/current/board.4032.svg",
     "events": {
       "rosetteClaimed": true,
       "captureHappened": false,
@@ -2066,6 +2066,23 @@
     },
     "fromPosition": 2,
     "toPosition": 4,
+    "roll": 2
+  },
+  {
+    "username": "Saviru",
+    "issue": 4033,
+    "time": "2025-03-31T19:30:01.990Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 2,
     "roll": 2
   }
 ]
