@@ -2108,7 +2108,7 @@
     "time": "2025-04-03T12:24:55.455Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/9315895bc3699949b63ea9b93133de9a65f03e3b/games/current/board.4036.svg",
     "events": {
       "rosetteClaimed": true,
       "captureHappened": false,
@@ -2118,5 +2118,22 @@
     "fromPosition": 5,
     "toPosition": 8,
     "roll": 3
+  },
+  {
+    "username": "April-Gras",
+    "issue": 4037,
+    "time": "2025-04-03T12:26:08.482Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 4,
+    "toPosition": 6,
+    "roll": 2
   }
 ]
