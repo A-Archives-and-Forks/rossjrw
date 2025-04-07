@@ -85,6 +85,23 @@
     "time": "2025-04-07T03:33:51.874Z",
     "team": "w",
     "action": "move",
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/9f2db8bae30bc691a01fdaab4c4ea20544a58689/games/current/board.4044.svg",
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 1,
+    "roll": 1
+  },
+  {
+    "username": "sakshamverma1222k",
+    "issue": 4045,
+    "time": "2025-04-07T11:03:25.660Z",
+    "team": "b",
+    "action": "move",
     "boardImage": null,
     "events": {
       "rosetteClaimed": false,
