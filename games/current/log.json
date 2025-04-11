@@ -102,7 +102,7 @@
     "time": "2025-04-07T11:03:25.660Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/ff808b7cc4c30c2d257bfce55c47936d3fc08316/games/current/board.4045.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -111,6 +111,23 @@
     },
     "fromPosition": 0,
     "toPosition": 1,
+    "roll": 1
+  },
+  {
+    "username": "Guss4241",
+    "issue": 4046,
+    "time": "2025-04-11T12:18:54.545Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 1,
+    "toPosition": 2,
     "roll": 1
   }
 ]
