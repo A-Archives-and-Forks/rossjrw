@@ -129,5 +129,34 @@
     "fromPosition": 1,
     "toPosition": 2,
     "roll": 1
+  },
+  {
+    "username": "Arc-huangjingtong",
+    "issue": 4047,
+    "time": "2025-04-19T07:50:46.717Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/957fe6355be7618ee7449d545b57ae8fa4055393/games/current/board.4047.svg",
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 1,
+    "toPosition": 5,
+    "roll": 4
+  },
+  {
+    "username": "Arc-huangjingtong",
+    "issue": 4047,
+    "time": "2025-04-19T07:50:46.717Z",
+    "team": "w",
+    "action": "pass",
+    "boardImage": null,
+    "events": null,
+    "fromPosition": null,
+    "toPosition": null,
+    "roll": 0
   }
 ]
