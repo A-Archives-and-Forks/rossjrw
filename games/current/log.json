@@ -158,5 +158,34 @@
     "fromPosition": null,
     "toPosition": null,
     "roll": 0
+  },
+  {
+    "username": "saiff-19",
+    "issue": 4048,
+    "time": "2025-04-26T14:59:39.592Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/302d014989a45d193e44e34b240735c87b2666e6/games/current/board.4048.svg",
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 5,
+    "toPosition": 9,
+    "roll": 4
+  },
+  {
+    "username": "saiff-19",
+    "issue": 4048,
+    "time": "2025-04-26T14:59:39.592Z",
+    "team": "w",
+    "action": "pass",
+    "boardImage": null,
+    "events": null,
+    "fromPosition": null,
+    "toPosition": null,
+    "roll": 0
   }
 ]
