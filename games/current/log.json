@@ -194,7 +194,7 @@
     "time": "2025-04-30T19:43:53.033Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/5eb2a98dddf3995d892cb5d783f86c7795181bb3/games/current/board.4049.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -204,5 +204,22 @@
     "fromPosition": 9,
     "toPosition": 12,
     "roll": 3
+  },
+  {
+    "username": "vkhypado-dev",
+    "issue": 4050,
+    "time": "2025-05-03T22:06:32.010Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 1,
+    "roll": 1
   }
 ]
