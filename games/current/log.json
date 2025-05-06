@@ -211,7 +211,7 @@
     "time": "2025-05-03T22:06:32.010Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/2521d0f811a46ec490467189dcc335f31ff7d302/games/current/board.4050.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -221,5 +221,22 @@
     "fromPosition": 0,
     "toPosition": 1,
     "roll": 1
+  },
+  {
+    "username": "AkshayCodeLab",
+    "issue": 4051,
+    "time": "2025-05-06T11:19:56.165Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 2,
+    "toPosition": 4,
+    "roll": 2
   }
 ]
