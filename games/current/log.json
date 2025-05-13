@@ -262,7 +262,7 @@
     "time": "2025-05-09T18:11:11.591Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/8fe9d35ad9e31d59808387d42fa4c96e60307efb/games/current/board.4053.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -272,5 +272,22 @@
     "fromPosition": 4,
     "toPosition": 6,
     "roll": 2
+  },
+  {
+    "username": "ZidanAlfianMubarok",
+    "issue": 4054,
+    "time": "2025-05-13T08:28:14.630Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 8,
+    "toPosition": 11,
+    "roll": 3
   }
 ]
