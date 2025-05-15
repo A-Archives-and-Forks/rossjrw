@@ -313,7 +313,7 @@
     "time": "2025-05-15T14:03:44.046Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/f18575798a094572894050c8c8df50965cac2e5a/games/current/board.4056.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -322,6 +322,23 @@
     },
     "fromPosition": 11,
     "toPosition": 12,
+    "roll": 1
+  },
+  {
+    "username": "rlarson20",
+    "issue": 4057,
+    "time": "2025-05-15T20:50:16.590Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 1,
     "roll": 1
   }
 ]
