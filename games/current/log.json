@@ -415,7 +415,7 @@
     "time": "2025-05-19T12:10:18.830Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/9f67a1a4459b2fd7d3b3705861e86817852f20a0/games/current/board.4062.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -425,5 +425,22 @@
     "fromPosition": 14,
     "toPosition": 15,
     "roll": 1
+  },
+  {
+    "username": "Nick-Mur",
+    "issue": 4063,
+    "time": "2025-05-19T19:16:11.685Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 2,
+    "toPosition": 6,
+    "roll": 4
   }
 ]
