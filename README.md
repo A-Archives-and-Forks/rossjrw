@@ -5,7 +5,7 @@ We're playing
 
 <p align="center">
   <b>It's the
-  :black_circle:black
+  :white_circle:white
   team's turn.</b>
 </p>
 
@@ -13,22 +13,22 @@ You're on a team! :wave:
 
 * If you've already played a turn this game, you're already on a team
   &mdash; check the game log below for a reminder. If it's not your turn,
-  check back later, or [ask a
-  friend](https://twitter.com/share?text=I'm+playing+The+Royal+Game+of+Ur+on+a+GitHub+profile.+Take+your+turn+at+https://github.com/rossjrw/rossjrw+%23RoyalGameOfUr+%23github) to make a move.
+  check back later, or ask a friend to make a move.
 * If you've not yet played a turn this game, make a move now to join the
-  **:black_circle:black** team.
+  **:white_circle:white** team.
 
-<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4063.svg"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4064.svg"></p>
 
-  **:black_circle:Black team:**
-  You rolled a 2!
+  **:white_circle:White team:**
+  You rolled a 1!
 What would you like to do?
 
 | Choices *(pick one of them!)* |
 | --- |
-  | [    Move a new piece to tile 2](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%400-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
-  | [    Move the piece on tile 1 to tile 3](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%401-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
-  | [    Move the piece on tile 9 to tile 11](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%409-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move a new piece to tile 1](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%400-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move the piece on tile 4 to tile 5](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%404-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move the piece on tile 6 to tile 7](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%406-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [ :crossed_swords:   Move the piece on tile 8 to tile 9](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%408-0&amp;body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
 
 -----
 
@@ -47,43 +47,46 @@ What would you like to do?
         <td>:white_circle: <b> White team</b></td>
       </tr>
       <tr align="center">
-        <td><b><a href="https://github.com/LucasFASouza">@LucasFASouza</a></b> (4)<br><b><a href="https://github.com/Hans5958">@Hans5958</a></b> (1)<br><b><a href="https://github.com/sakshamverma1222k">@sakshamverma1222k</a></b> (1)<br><b><a href="https://github.com/Arc-huangjingtong">@Arc-huangjingtong</a></b> (1)<br><b><a href="https://github.com/saiff-19">@saiff-19</a></b> (1)<br><b><a href="https://github.com/AkshayCodeLab">@AkshayCodeLab</a></b> (1)<br><b><a href="https://github.com/henri1911">@henri1911</a></b> (1)<br><b><a href="https://github.com/rlarson20">@rlarson20</a></b> (1)</td>
-        <td><b><a href="https://github.com/Casper-Guo">@Casper-Guo</a></b> (10)<br><b><a href="https://github.com/Guss4241">@Guss4241</a></b> (1)<br><b><a href="https://github.com/vkhypado-dev">@vkhypado-dev</a></b> (1)<br><b><a href="https://github.com/ZidanAlfianMubarok">@ZidanAlfianMubarok</a></b> (1)<br><b><a href="https://github.com/Nick-Mur">@Nick-Mur</a></b> (1)</td>
+        <td><b><img src="https://github.com/LucasFASouza.png?size=16" alt=""> <a href="https://github.com/LucasFASouza">LucasFASouza</a></b> (4)<br><b><img src="https://github.com/Hans5958.png?size=16" alt=""> <a href="https://github.com/Hans5958">Hans5958</a></b> (1)<br><b><img src="https://github.com/sakshamverma1222k.png?size=16" alt=""> <a href="https://github.com/sakshamverma1222k">sakshamverma1222k</a></b> (1)<br><b><img src="https://github.com/Arc-huangjingtong.png?size=16" alt=""> <a href="https://github.com/Arc-huangjingtong">Arc-huangjingtong</a></b> (1)<br><b><img src="https://github.com/saiff-19.png?size=16" alt=""> <a href="https://github.com/saiff-19">saiff-19</a></b> (1)<br><b><img src="https://github.com/AkshayCodeLab.png?size=16" alt=""> <a href="https://github.com/AkshayCodeLab">AkshayCodeLab</a></b> (1)<br><b><img src="https://github.com/henri1911.png?size=16" alt=""> <a href="https://github.com/henri1911">henri1911</a></b> (1)<br><b><img src="https://github.com/rlarson20.png?size=16" alt=""> <a href="https://github.com/rlarson20">rlarson20</a></b> (1)<br><b><img src="https://github.com/rossjrw.png?size=16" alt=""> <a href="https://github.com/rossjrw">rossjrw</a></b> (1)</td>
+        <td><b><img src="https://github.com/Casper-Guo.png?size=16" alt=""> <a href="https://github.com/Casper-Guo">Casper-Guo</a></b> (10)<br><b><img src="https://github.com/Guss4241.png?size=16" alt=""> <a href="https://github.com/Guss4241">Guss4241</a></b> (1)<br><b><img src="https://github.com/vkhypado-dev.png?size=16" alt=""> <a href="https://github.com/vkhypado-dev">vkhypado-dev</a></b> (1)<br><b><img src="https://github.com/ZidanAlfianMubarok.png?size=16" alt=""> <a href="https://github.com/ZidanAlfianMubarok">ZidanAlfianMubarok</a></b> (1)<br><b><img src="https://github.com/Nick-Mur.png?size=16" alt=""> <a href="https://github.com/Nick-Mur">Nick-Mur</a></b> (1)</td>
       </tr>
     </tbody>
   </table>
 
 ## What's happened so far?
 
+Moves played in this game, most recent first:
+
 | Time | Turn | Event | Issue | Board |
 | :---: | :---: | :--- | :---: | :---: |
-  | 4th Apr 2025 16:03 | **0** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** started a new game | [#4039](https://github.com/rossjrw/rossjrw/issues/4039) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/a7a3a9f7136724bda3a756dc9e101a9c447c527c/games/current/board.4039.svg) |
-  | 4th Apr 2025 16:04 | **1** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece onto the board to position 4  — claimed a rosette :rosette:  | [#4040](https://github.com/rossjrw/rossjrw/issues/4040) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/707bbe7208672e9a48eb82cf516e4df9c011ff87/games/current/board.4040.svg) |
-  | 4th Apr 2025 16:04 | **2** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 4 to position 5    | [#4041](https://github.com/rossjrw/rossjrw/issues/4041) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/83a4b7895f7e6fd2c73c78974388ff746204fff1/games/current/board.4041.svg) |
-  | 4th Apr 2025 17:24 | **3** | :black_circle: **[@Hans5958](https://github.com/Hans5958)** moved a black piece onto the board to position 2    | [#4042](https://github.com/rossjrw/rossjrw/issues/4042) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/f00cc16f721de686c44db1417d958d8a18bf18c7/games/current/board.4042.svg) |
-  | 7th Apr 2025 03:32 | **4** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 5 to position 8  — claimed a rosette :rosette:  | [#4043](https://github.com/rossjrw/rossjrw/issues/4043) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/2cfeffbf2508c1d8921bc7b750f6cf9807a7d98a/games/current/board.4043.svg) |
-  | 7th Apr 2025 03:33 | **5** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece onto the board to position 1    | [#4044](https://github.com/rossjrw/rossjrw/issues/4044) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/9f2db8bae30bc691a01fdaab4c4ea20544a58689/games/current/board.4044.svg) |
-  | 7th Apr 2025 11:03 | **6** | :black_circle: **[@sakshamverma1222k](https://github.com/sakshamverma1222k)** moved a black piece onto the board to position 1    | [#4045](https://github.com/rossjrw/rossjrw/issues/4045) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/ff808b7cc4c30c2d257bfce55c47936d3fc08316/games/current/board.4045.svg) |
-  | 11th Apr 2025 12:18 | **7** | :white_circle: **[@Guss4241](https://github.com/Guss4241)** moved a white piece from position 1 to position 2    | [#4046](https://github.com/rossjrw/rossjrw/issues/4046) |  |
-  | 19th Apr 2025 07:50 | **8** | :black_circle: **[@Arc-huangjingtong](https://github.com/Arc-huangjingtong)** moved a black piece from position 1 to position 5    | [#4047](https://github.com/rossjrw/rossjrw/issues/4047) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/957fe6355be7618ee7449d545b57ae8fa4055393/games/current/board.4047.svg) |
-  | 19th Apr 2025 07:50 | **9** | :white_circle:  The white team rolled a 0 and their turn was automatically passed | [#4047](https://github.com/rossjrw/rossjrw/issues/4047) |  |
-  | 26th Apr 2025 14:59 | **10** | :black_circle: **[@saiff-19](https://github.com/saiff-19)** moved a black piece from position 5 to position 9    | [#4048](https://github.com/rossjrw/rossjrw/issues/4048) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/302d014989a45d193e44e34b240735c87b2666e6/games/current/board.4048.svg) |
-  | 26th Apr 2025 14:59 | **11** | :white_circle:  The white team rolled a 0 and their turn was automatically passed | [#4048](https://github.com/rossjrw/rossjrw/issues/4048) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/a46a6de25e7f2d80f3b905e5be8acfc1cbab3681/games/current/board.4048.svg) |
-  | 30th Apr 2025 19:43 | **12** | :black_circle: **[@LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 9 to position 12    | [#4049](https://github.com/rossjrw/rossjrw/issues/4049) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/5eb2a98dddf3995d892cb5d783f86c7795181bb3/games/current/board.4049.svg) |
-  | 3rd May 2025 22:06 | **13** | :white_circle: **[@vkhypado-dev](https://github.com/vkhypado-dev)** moved a white piece onto the board to position 1    | [#4050](https://github.com/rossjrw/rossjrw/issues/4050) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/2521d0f811a46ec490467189dcc335f31ff7d302/games/current/board.4050.svg) |
-  | 6th May 2025 11:19 | **14** | :black_circle: **[@AkshayCodeLab](https://github.com/AkshayCodeLab)** moved a black piece from position 2 to position 4  — claimed a rosette :rosette:  | [#4051](https://github.com/rossjrw/rossjrw/issues/4051) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/089b2942e8371f4788094c79b076e137cb733186/games/current/board.4051.svg) |
-  | 7th May 2025 14:27 | **15** | :black_circle: **[@henri1911](https://github.com/henri1911)** moved a black piece from position 12 to position 14  — claimed a rosette :rosette:  | [#4052](https://github.com/rossjrw/rossjrw/issues/4052) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/699c5c2b21c13587cfbee194c8110b460c47c37a/games/current/board.4052.svg) |
-  | 9th May 2025 18:11 | **16** | :black_circle: **[@LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 4 to position 6    | [#4053](https://github.com/rossjrw/rossjrw/issues/4053) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/8fe9d35ad9e31d59808387d42fa4c96e60307efb/games/current/board.4053.svg) |
-  | 13th May 2025 08:28 | **17** | :white_circle: **[@ZidanAlfianMubarok](https://github.com/ZidanAlfianMubarok)** moved a white piece from position 8 to position 11    | [#4054](https://github.com/rossjrw/rossjrw/issues/4054) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/6f683bcf4d228cb12183b2f088747c1d0ead24ab/games/current/board.4054.svg) |
-  | 14th May 2025 20:21 | **18** | :black_circle: **[@LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 6 to position 9    | [#4055](https://github.com/rossjrw/rossjrw/issues/4055) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/cd4281cfbbeb588e930974d83e5f6b8357721f46/games/current/board.4055.svg) |
-  | 15th May 2025 14:03 | **19** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 11 to position 12    | [#4056](https://github.com/rossjrw/rossjrw/issues/4056) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/f18575798a094572894050c8c8df50965cac2e5a/games/current/board.4056.svg) |
-  | 15th May 2025 20:50 | **20** | :black_circle: **[@rlarson20](https://github.com/rlarson20)** moved a black piece onto the board to position 1    | [#4057](https://github.com/rossjrw/rossjrw/issues/4057) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/15b806d1cdb4b4b8c069dcadc564c75dc6542127/games/current/board.4057.svg) |
-  | 15th May 2025 21:08 | **21** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece onto the board to position 4  — claimed a rosette :rosette:  | [#4058](https://github.com/rossjrw/rossjrw/issues/4058) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/182148585badc83f6444ce7b48bc0eb1b57a9534/games/current/board.4058.svg) |
-  | 15th May 2025 21:14 | **22** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 4 to position 8  — claimed a rosette :rosette:  | [#4059](https://github.com/rossjrw/rossjrw/issues/4059) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/f255a0a8ae6c658f4596075727ebb816b82432b3/games/current/board.4059.svg) |
-  | 15th May 2025 21:17 | **23** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 1 to position 4  — claimed a rosette :rosette:  | [#4060](https://github.com/rossjrw/rossjrw/issues/4060) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/92deb7e919a875242b1ae1706e103930ab8c489c/games/current/board.4060.svg) |
-  | 15th May 2025 21:18 | **24** | :white_circle: **[@Casper-Guo](https://github.com/Casper-Guo)** ascended a white piece from position 12 :rocket:    | [#4061](https://github.com/rossjrw/rossjrw/issues/4061) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/e3e28b0b3c630579f9d76390b7e76c8c2c3e721a/games/current/board.4061.svg) |
-  | 19th May 2025 12:10 | **25** | :black_circle: **[@LucasFASouza](https://github.com/LucasFASouza)** ascended a black piece from position 14 :rocket:    | [#4062](https://github.com/rossjrw/rossjrw/issues/4062) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/9f67a1a4459b2fd7d3b3705861e86817852f20a0/games/current/board.4062.svg) |
-  | 19th May 2025 19:16 | **26** | :white_circle: **[@Nick-Mur](https://github.com/Nick-Mur)** moved a white piece from position 2 to position 6    | [#4063](https://github.com/rossjrw/rossjrw/issues/4063) |  |
+  | 27th May 2025 10:10 | **0** | :black_circle: ![](https://github.com/rossjrw.png?size=16) **[rossjrw](https://github.com/rossjrw)** moved a black piece onto the board to position 2    | [#4064](https://github.com/rossjrw/rossjrw/issues/4064) |  |
+  | 19th May 2025 19:16 | **1** | :white_circle: ![](https://github.com/Nick-Mur.png?size=16) **[Nick-Mur](https://github.com/Nick-Mur)** moved a white piece from position 2 to position 6    | [#4063](https://github.com/rossjrw/rossjrw/issues/4063) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/839b32e571fd6e3468c798d61a4c10bcefa16c6d/games/current/board.4063.svg) |
+  | 19th May 2025 12:10 | **2** | :black_circle: ![](https://github.com/LucasFASouza.png?size=16) **[LucasFASouza](https://github.com/LucasFASouza)** ascended a black piece from position 14 :rocket:    | [#4062](https://github.com/rossjrw/rossjrw/issues/4062) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/9f67a1a4459b2fd7d3b3705861e86817852f20a0/games/current/board.4062.svg) |
+  | 15th May 2025 21:18 | **3** | :white_circle: ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** ascended a white piece from position 12 :rocket:    | [#4061](https://github.com/rossjrw/rossjrw/issues/4061) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/e3e28b0b3c630579f9d76390b7e76c8c2c3e721a/games/current/board.4061.svg) |
+  | 15th May 2025 21:17 | **4** | :white_circle: ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 1 to position 4  — claimed a rosette :rosette:  | [#4060](https://github.com/rossjrw/rossjrw/issues/4060) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/92deb7e919a875242b1ae1706e103930ab8c489c/games/current/board.4060.svg) |
+  | 15th May 2025 21:14 | **5** | :white_circle: ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 4 to position 8  — claimed a rosette :rosette:  | [#4059](https://github.com/rossjrw/rossjrw/issues/4059) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/f255a0a8ae6c658f4596075727ebb816b82432b3/games/current/board.4059.svg) |
+  | 15th May 2025 21:08 | **6** | :white_circle: ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece onto the board to position 4  — claimed a rosette :rosette:  | [#4058](https://github.com/rossjrw/rossjrw/issues/4058) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/182148585badc83f6444ce7b48bc0eb1b57a9534/games/current/board.4058.svg) |
+  | 15th May 2025 20:50 | **7** | :black_circle: ![](https://github.com/rlarson20.png?size=16) **[rlarson20](https://github.com/rlarson20)** moved a black piece onto the board to position 1    | [#4057](https://github.com/rossjrw/rossjrw/issues/4057) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/15b806d1cdb4b4b8c069dcadc564c75dc6542127/games/current/board.4057.svg) |
+  | 15th May 2025 14:03 | **8** | :white_circle: ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 11 to position 12    | [#4056](https://github.com/rossjrw/rossjrw/issues/4056) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/f18575798a094572894050c8c8df50965cac2e5a/games/current/board.4056.svg) |
+  | 14th May 2025 20:21 | **9** | :black_circle: ![](https://github.com/LucasFASouza.png?size=16) **[LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 6 to position 9    | [#4055](https://github.com/rossjrw/rossjrw/issues/4055) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/cd4281cfbbeb588e930974d83e5f6b8357721f46/games/current/board.4055.svg) |
+  | 13th May 2025 08:28 | **10** | :white_circle: ![](https://github.com/ZidanAlfianMubarok.png?size=16) **[ZidanAlfianMubarok](https://github.com/ZidanAlfianMubarok)** moved a white piece from position 8 to position 11    | [#4054](https://github.com/rossjrw/rossjrw/issues/4054) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/6f683bcf4d228cb12183b2f088747c1d0ead24ab/games/current/board.4054.svg) |
+  | 9th May 2025 18:11 | **11** | :black_circle: ![](https://github.com/LucasFASouza.png?size=16) **[LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 4 to position 6    | [#4053](https://github.com/rossjrw/rossjrw/issues/4053) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/8fe9d35ad9e31d59808387d42fa4c96e60307efb/games/current/board.4053.svg) |
+  | 7th May 2025 14:27 | **12** | :black_circle: ![](https://github.com/henri1911.png?size=16) **[henri1911](https://github.com/henri1911)** moved a black piece from position 12 to position 14  — claimed a rosette :rosette:  | [#4052](https://github.com/rossjrw/rossjrw/issues/4052) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/699c5c2b21c13587cfbee194c8110b460c47c37a/games/current/board.4052.svg) |
+  | 6th May 2025 11:19 | **13** | :black_circle: ![](https://github.com/AkshayCodeLab.png?size=16) **[AkshayCodeLab](https://github.com/AkshayCodeLab)** moved a black piece from position 2 to position 4  — claimed a rosette :rosette:  | [#4051](https://github.com/rossjrw/rossjrw/issues/4051) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/089b2942e8371f4788094c79b076e137cb733186/games/current/board.4051.svg) |
+  | 3rd May 2025 22:06 | **14** | :white_circle: ![](https://github.com/vkhypado-dev.png?size=16) **[vkhypado-dev](https://github.com/vkhypado-dev)** moved a white piece onto the board to position 1    | [#4050](https://github.com/rossjrw/rossjrw/issues/4050) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/2521d0f811a46ec490467189dcc335f31ff7d302/games/current/board.4050.svg) |
+  | 30th Apr 2025 19:43 | **15** | :black_circle: ![](https://github.com/LucasFASouza.png?size=16) **[LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 9 to position 12    | [#4049](https://github.com/rossjrw/rossjrw/issues/4049) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/5eb2a98dddf3995d892cb5d783f86c7795181bb3/games/current/board.4049.svg) |
+  | 26th Apr 2025 14:59 | **16** | :white_circle:  The white team rolled a 0 and their turn was automatically passed | [#4048](https://github.com/rossjrw/rossjrw/issues/4048) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/a46a6de25e7f2d80f3b905e5be8acfc1cbab3681/games/current/board.4048.svg) |
+  | 26th Apr 2025 14:59 | **17** | :black_circle: ![](https://github.com/saiff-19.png?size=16) **[saiff-19](https://github.com/saiff-19)** moved a black piece from position 5 to position 9    | [#4048](https://github.com/rossjrw/rossjrw/issues/4048) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/302d014989a45d193e44e34b240735c87b2666e6/games/current/board.4048.svg) |
+  | 19th Apr 2025 07:50 | **18** | :white_circle:  The white team rolled a 0 and their turn was automatically passed | [#4047](https://github.com/rossjrw/rossjrw/issues/4047) |  |
+  | 19th Apr 2025 07:50 | **19** | :black_circle: ![](https://github.com/Arc-huangjingtong.png?size=16) **[Arc-huangjingtong](https://github.com/Arc-huangjingtong)** moved a black piece from position 1 to position 5    | [#4047](https://github.com/rossjrw/rossjrw/issues/4047) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/957fe6355be7618ee7449d545b57ae8fa4055393/games/current/board.4047.svg) |
+  | 11th Apr 2025 12:18 | **20** | :white_circle: ![](https://github.com/Guss4241.png?size=16) **[Guss4241](https://github.com/Guss4241)** moved a white piece from position 1 to position 2    | [#4046](https://github.com/rossjrw/rossjrw/issues/4046) |  |
+  | 7th Apr 2025 11:03 | **21** | :black_circle: ![](https://github.com/sakshamverma1222k.png?size=16) **[sakshamverma1222k](https://github.com/sakshamverma1222k)** moved a black piece onto the board to position 1    | [#4045](https://github.com/rossjrw/rossjrw/issues/4045) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/ff808b7cc4c30c2d257bfce55c47936d3fc08316/games/current/board.4045.svg) |
+  | 7th Apr 2025 03:33 | **22** | :white_circle: ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece onto the board to position 1    | [#4044](https://github.com/rossjrw/rossjrw/issues/4044) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/9f2db8bae30bc691a01fdaab4c4ea20544a58689/games/current/board.4044.svg) |
+  | 7th Apr 2025 03:32 | **23** | :white_circle: ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 5 to position 8  — claimed a rosette :rosette:  | [#4043](https://github.com/rossjrw/rossjrw/issues/4043) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/2cfeffbf2508c1d8921bc7b750f6cf9807a7d98a/games/current/board.4043.svg) |
+  | 4th Apr 2025 17:24 | **24** | :black_circle: ![](https://github.com/Hans5958.png?size=16) **[Hans5958](https://github.com/Hans5958)** moved a black piece onto the board to position 2    | [#4042](https://github.com/rossjrw/rossjrw/issues/4042) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/f00cc16f721de686c44db1417d958d8a18bf18c7/games/current/board.4042.svg) |
+  | 4th Apr 2025 16:04 | **25** | :white_circle: ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece from position 4 to position 5    | [#4041](https://github.com/rossjrw/rossjrw/issues/4041) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/83a4b7895f7e6fd2c73c78974388ff746204fff1/games/current/board.4041.svg) |
+  | 4th Apr 2025 16:04 | **26** | :white_circle: ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** moved a white piece onto the board to position 4  — claimed a rosette :rosette:  | [#4040](https://github.com/rossjrw/rossjrw/issues/4040) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/707bbe7208672e9a48eb82cf516e4df9c011ff87/games/current/board.4040.svg) |
+  | 4th Apr 2025 16:03 | **27** | :white_circle: ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** started a new game | [#4039](https://github.com/rossjrw/rossjrw/issues/4039) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/a7a3a9f7136724bda3a756dc9e101a9c447c527c/games/current/board.4039.svg) |
 
 </details>
 
@@ -92,188 +95,188 @@ What would you like to do?
 
 ## Previous games
 
-1. A game was started on 30th Jul 2020 by **[@rossjrw](https://github.com/rossjrw)** and ended on 4th Dec 2020. 
+1. A game was started on 30th Jul 2020 by ![](https://github.com/rossjrw.png?size=16) **[rossjrw](https://github.com/rossjrw)** and ended on 4th Dec 2020. 
    * The :white_circle:white team won. 
    * 64 players played 166 moves across 4 months and 5 days. 
    * The :black_circle:black team captured 9 white pieces and claimed 12 rosettes. 
    * The :white_circle:white team captured 10 black pieces and claimed 18 rosettes. 
-   * The MVP of the winning team was **[@1ethanhansen](https://github.com/1ethanhansen)**, who played 48 moves. 
-   * The winning move was made by **[@qbtl](https://github.com/qbtl)** ([#269](https://github.com/rossjrw/rossjrw/issues/269)).
-1. A game was started on 4th Dec 2020 by **[@1ethanhansen](https://github.com/1ethanhansen)** and ended on 11th Jan 2021. 
+   * The MVP of the winning team was ![](https://github.com/1ethanhansen.png?size=16) **[1ethanhansen](https://github.com/1ethanhansen)**, who played 48 moves. 
+   * The winning move was made by ![](https://github.com/qbtl.png?size=16) **[qbtl](https://github.com/qbtl)** ([#269](https://github.com/rossjrw/rossjrw/issues/269)).
+1. A game was started on 4th Dec 2020 by ![](https://github.com/1ethanhansen.png?size=16) **[1ethanhansen](https://github.com/1ethanhansen)** and ended on 11th Jan 2021. 
    * The :black_circle:black team won. 
    * 27 players played 145 moves across 1 month and 1 week. 
    * The :black_circle:black team captured 7 white pieces and claimed 16 rosettes. 
    * The :white_circle:white team captured 6 black pieces and claimed 14 rosettes. 
-   * The MVP of the winning team was **[@shpatrickguo](https://github.com/shpatrickguo)**, who played 26 moves. 
-   * The winning move was made by **[@shpatrickguo](https://github.com/shpatrickguo)** ([#424](https://github.com/rossjrw/rossjrw/issues/424)).
-1. A game was started on 11th Jan 2021 by **[@BaptisteMartinet](https://github.com/BaptisteMartinet)** and ended on 11th Feb 2021. 
+   * The MVP of the winning team was ![](https://github.com/shpatrickguo.png?size=16) **[shpatrickguo](https://github.com/shpatrickguo)**, who played 26 moves. 
+   * The winning move was made by ![](https://github.com/shpatrickguo.png?size=16) **[shpatrickguo](https://github.com/shpatrickguo)** ([#424](https://github.com/rossjrw/rossjrw/issues/424)).
+1. A game was started on 11th Jan 2021 by ![](https://github.com/BaptisteMartinet.png?size=16) **[BaptisteMartinet](https://github.com/BaptisteMartinet)** and ended on 11th Feb 2021. 
    * The :white_circle:white team won. 
    * 17 players played 118 moves across 1 month and 12 hours. 
    * The :black_circle:black team captured 2 white pieces and claimed 11 rosettes. 
    * The :white_circle:white team captured 8 black pieces and claimed 14 rosettes. 
-   * The MVP of the winning team was **[@1ethanhansen](https://github.com/1ethanhansen)**, who played 45 moves. 
-   * The winning move was made by **[@1ethanhansen](https://github.com/1ethanhansen)** ([#535](https://github.com/rossjrw/rossjrw/issues/535)).
-1. A game was started on 11th Feb 2021 by **[@1ethanhansen](https://github.com/1ethanhansen)** and ended on 5th Mar 2021. 
+   * The MVP of the winning team was ![](https://github.com/1ethanhansen.png?size=16) **[1ethanhansen](https://github.com/1ethanhansen)**, who played 45 moves. 
+   * The winning move was made by ![](https://github.com/1ethanhansen.png?size=16) **[1ethanhansen](https://github.com/1ethanhansen)** ([#535](https://github.com/rossjrw/rossjrw/issues/535)).
+1. A game was started on 11th Feb 2021 by ![](https://github.com/1ethanhansen.png?size=16) **[1ethanhansen](https://github.com/1ethanhansen)** and ended on 5th Mar 2021. 
    * The :white_circle:white team won. 
    * 17 players played 175 moves across 3 weeks and 22 hours. 
    * The :black_circle:black team captured 12 white pieces and claimed 17 rosettes. 
    * The :white_circle:white team captured 13 black pieces and claimed 18 rosettes. 
-   * The MVP of the winning team was **[@1ethanhansen](https://github.com/1ethanhansen)**, who played 48 moves. 
-   * The winning move was made by **[@1ethanhansen](https://github.com/1ethanhansen)** ([#702](https://github.com/rossjrw/rossjrw/issues/702)).
-1. A game was started on 6th Mar 2021 by **[@shpatrickguo](https://github.com/shpatrickguo)** and ended on 10th May 2021. 
+   * The MVP of the winning team was ![](https://github.com/1ethanhansen.png?size=16) **[1ethanhansen](https://github.com/1ethanhansen)**, who played 48 moves. 
+   * The winning move was made by ![](https://github.com/1ethanhansen.png?size=16) **[1ethanhansen](https://github.com/1ethanhansen)** ([#702](https://github.com/rossjrw/rossjrw/issues/702)).
+1. A game was started on 6th Mar 2021 by ![](https://github.com/shpatrickguo.png?size=16) **[shpatrickguo](https://github.com/shpatrickguo)** and ended on 10th May 2021. 
    * The :black_circle:black team won. 
    * 42 players played 162 moves across 2 months and 4 days. 
    * The :black_circle:black team captured 12 white pieces and claimed 17 rosettes. 
    * The :white_circle:white team captured 9 black pieces and claimed 19 rosettes. 
-   * The MVP of the winning team was **[@shpatrickguo](https://github.com/shpatrickguo)**, who played 22 moves. 
-   * The winning move was made by **[@crxssed7](https://github.com/crxssed7)** ([#864](https://github.com/rossjrw/rossjrw/issues/864)).
-1. A game was started on 10th May 2021 by **[@HAUDRAUFHAUN](https://github.com/HAUDRAUFHAUN)** and ended on 17th Jul 2021. 
+   * The MVP of the winning team was ![](https://github.com/shpatrickguo.png?size=16) **[shpatrickguo](https://github.com/shpatrickguo)**, who played 22 moves. 
+   * The winning move was made by ![](https://github.com/crxssed7.png?size=16) **[crxssed7](https://github.com/crxssed7)** ([#864](https://github.com/rossjrw/rossjrw/issues/864)).
+1. A game was started on 10th May 2021 by ![](https://github.com/HAUDRAUFHAUN.png?size=16) **[HAUDRAUFHAUN](https://github.com/HAUDRAUFHAUN)** and ended on 17th Jul 2021. 
    * The :white_circle:white team won. 
    * 34 players played 167 moves across 2 months and 6 days. 
    * The :black_circle:black team captured 7 white pieces and claimed 14 rosettes. 
    * The :white_circle:white team captured 10 black pieces and claimed 18 rosettes. 
-   * The MVP of the winning team was **[@1ethanhansen](https://github.com/1ethanhansen)**, who played 31 moves. 
-   * The winning move was made by **[@1ethanhansen](https://github.com/1ethanhansen)** ([#1024](https://github.com/rossjrw/rossjrw/issues/1024)).
-1. A game was started on 17th Jul 2021 by **[@1ethanhansen](https://github.com/1ethanhansen)** and ended on 19th Oct 2021. 
+   * The MVP of the winning team was ![](https://github.com/1ethanhansen.png?size=16) **[1ethanhansen](https://github.com/1ethanhansen)**, who played 31 moves. 
+   * The winning move was made by ![](https://github.com/1ethanhansen.png?size=16) **[1ethanhansen](https://github.com/1ethanhansen)** ([#1024](https://github.com/rossjrw/rossjrw/issues/1024)).
+1. A game was started on 17th Jul 2021 by ![](https://github.com/1ethanhansen.png?size=16) **[1ethanhansen](https://github.com/1ethanhansen)** and ended on 19th Oct 2021. 
    * The :black_circle:black team won. 
    * 48 players played 153 moves across 3 months and 3 days. 
    * The :black_circle:black team captured 6 white pieces and claimed 17 rosettes. 
    * The :white_circle:white team captured 6 black pieces and claimed 15 rosettes. 
-   * The MVP of the winning team was **[@PkmnQ](https://github.com/PkmnQ)**, who played 13 moves. 
-   * The winning move was made by **[@OmKakatkar](https://github.com/OmKakatkar)** ([#1175](https://github.com/rossjrw/rossjrw/issues/1175)).
-1. A game was started on 19th Oct 2021 by **[@OmKakatkar](https://github.com/OmKakatkar)** and ended on 29th Oct 2021. 
+   * The MVP of the winning team was ![](https://github.com/PkmnQ.png?size=16) **[PkmnQ](https://github.com/PkmnQ)**, who played 13 moves. 
+   * The winning move was made by ![](https://github.com/OmKakatkar.png?size=16) **[OmKakatkar](https://github.com/OmKakatkar)** ([#1175](https://github.com/rossjrw/rossjrw/issues/1175)).
+1. A game was started on 19th Oct 2021 by ![](https://github.com/OmKakatkar.png?size=16) **[OmKakatkar](https://github.com/OmKakatkar)** and ended on 29th Oct 2021. 
    * The :white_circle:white team won. 
    * 13 players played 135 moves across 1 week and 3 days. 
    * The :black_circle:black team captured 5 white pieces and claimed 13 rosettes. 
    * The :white_circle:white team captured 6 black pieces and claimed 15 rosettes. 
-   * The MVP of the winning team was **[@Timemaster111](https://github.com/Timemaster111)**, who played 46 moves. 
-   * The winning move was made by **[@Timemaster111](https://github.com/Timemaster111)** ([#1342](https://github.com/rossjrw/rossjrw/issues/1342)).
-1. A game was started on 29th Oct 2021 by **[@jbmagination](https://github.com/jbmagination)** and ended on 15th May 2022. 
+   * The MVP of the winning team was ![](https://github.com/Timemaster111.png?size=16) **[Timemaster111](https://github.com/Timemaster111)**, who played 46 moves. 
+   * The winning move was made by ![](https://github.com/Timemaster111.png?size=16) **[Timemaster111](https://github.com/Timemaster111)** ([#1342](https://github.com/rossjrw/rossjrw/issues/1342)).
+1. A game was started on 29th Oct 2021 by ![](https://github.com/jbmagination.png?size=16) **[jbmagination](https://github.com/jbmagination)** and ended on 15th May 2022. 
    * The :white_circle:white team won. 
    * 80 players played 187 moves across 6 months and 2 weeks. 
    * The :black_circle:black team captured 11 white pieces and claimed 17 rosettes. 
    * The :white_circle:white team captured 13 black pieces and claimed 19 rosettes. 
-   * The MVP of the winning team was **[@nirakon](https://github.com/nirakon)**, who played 18 moves. 
-   * The winning move was made by **[@Madflows](https://github.com/Madflows)** ([#1534](https://github.com/rossjrw/rossjrw/issues/1534)).
-1. A game was started on 15th May 2022 by **[@VikashPR](https://github.com/VikashPR)** and ended on 29th Dec 2022. 
+   * The MVP of the winning team was ![](https://github.com/nirakon.png?size=16) **[nirakon](https://github.com/nirakon)**, who played 18 moves. 
+   * The winning move was made by ![](https://github.com/Madflows.png?size=16) **[Madflows](https://github.com/Madflows)** ([#1534](https://github.com/rossjrw/rossjrw/issues/1534)).
+1. A game was started on 15th May 2022 by ![](https://github.com/VikashPR.png?size=16) **[VikashPR](https://github.com/VikashPR)** and ended on 29th Dec 2022. 
    * The :white_circle:white team won. 
    * 109 players played 177 moves across 7 months and 2 weeks. 
    * The :black_circle:black team captured 9 white pieces and claimed 23 rosettes. 
    * The :white_circle:white team captured 11 black pieces and claimed 19 rosettes. 
-   * The MVP of the winning team was **[@LAPCoder](https://github.com/LAPCoder)**, who played 11 moves. 
-   * The winning move was made by **[@LAPCoder](https://github.com/LAPCoder)** ([#1726](https://github.com/rossjrw/rossjrw/issues/1726)).
-1. A game was started on 29th Dec 2022 by **[@CostasAK](https://github.com/CostasAK)** and ended on 30th Dec 2022. 
+   * The MVP of the winning team was ![](https://github.com/LAPCoder.png?size=16) **[LAPCoder](https://github.com/LAPCoder)**, who played 11 moves. 
+   * The winning move was made by ![](https://github.com/LAPCoder.png?size=16) **[LAPCoder](https://github.com/LAPCoder)** ([#1726](https://github.com/rossjrw/rossjrw/issues/1726)).
+1. A game was started on 29th Dec 2022 by ![](https://github.com/CostasAK.png?size=16) **[CostasAK](https://github.com/CostasAK)** and ended on 30th Dec 2022. 
    * The :black_circle:black team won. 
    * 4 players played 121 moves across 19 hours and 41 minutes. 
    * The :black_circle:black team captured 6 white pieces and claimed 14 rosettes. 
    * The :white_circle:white team captured 4 black pieces and claimed 15 rosettes. 
-   * The MVP of the winning team was **[@CostasAK](https://github.com/CostasAK)**, who played 59 moves. 
-   * The winning move was made by **[@CostasAK](https://github.com/CostasAK)** ([#1844](https://github.com/rossjrw/rossjrw/issues/1844)).
-1. A game was started on 30th Dec 2022 by **[@TejaTadepalli](https://github.com/TejaTadepalli)** and ended on 27th Jan 2023. 
+   * The MVP of the winning team was ![](https://github.com/CostasAK.png?size=16) **[CostasAK](https://github.com/CostasAK)**, who played 59 moves. 
+   * The winning move was made by ![](https://github.com/CostasAK.png?size=16) **[CostasAK](https://github.com/CostasAK)** ([#1844](https://github.com/rossjrw/rossjrw/issues/1844)).
+1. A game was started on 30th Dec 2022 by ![](https://github.com/TejaTadepalli.png?size=16) **[TejaTadepalli](https://github.com/TejaTadepalli)** and ended on 27th Jan 2023. 
    * The :white_circle:white team won. 
    * 17 players played 158 moves across 4 weeks and 1 hour. 
    * The :black_circle:black team captured 9 white pieces and claimed 18 rosettes. 
    * The :white_circle:white team captured 12 black pieces and claimed 18 rosettes. 
-   * The MVP of the winning team was **[@TejaTadepalli](https://github.com/TejaTadepalli)**, who played 59 moves. 
-   * The winning move was made by **[@TejaTadepalli](https://github.com/TejaTadepalli)** ([#1994](https://github.com/rossjrw/rossjrw/issues/1994)).
-1. A game was started on 27th Jan 2023 by **[@TejaTadepalli](https://github.com/TejaTadepalli)** and ended on 14th Mar 2023. 
+   * The MVP of the winning team was ![](https://github.com/TejaTadepalli.png?size=16) **[TejaTadepalli](https://github.com/TejaTadepalli)**, who played 59 moves. 
+   * The winning move was made by ![](https://github.com/TejaTadepalli.png?size=16) **[TejaTadepalli](https://github.com/TejaTadepalli)** ([#1994](https://github.com/rossjrw/rossjrw/issues/1994)).
+1. A game was started on 27th Jan 2023 by ![](https://github.com/TejaTadepalli.png?size=16) **[TejaTadepalli](https://github.com/TejaTadepalli)** and ended on 14th Mar 2023. 
    * The :white_circle:white team won. 
    * 20 players played 153 moves across 1 month and 2 weeks. 
    * The :black_circle:black team captured 6 white pieces and claimed 17 rosettes. 
    * The :white_circle:white team captured 6 black pieces and claimed 16 rosettes. 
-   * The MVP of the winning team was **[@TejaTadepalli](https://github.com/TejaTadepalli)**, who played 65 moves. 
-   * The winning move was made by **[@TejaTadepalli](https://github.com/TejaTadepalli)** ([#2145](https://github.com/rossjrw/rossjrw/issues/2145)).
-1. A game was started on 14th Mar 2023 by **[@Murdeala](https://github.com/Murdeala)** and ended on 13th Apr 2023. 
+   * The MVP of the winning team was ![](https://github.com/TejaTadepalli.png?size=16) **[TejaTadepalli](https://github.com/TejaTadepalli)**, who played 65 moves. 
+   * The winning move was made by ![](https://github.com/TejaTadepalli.png?size=16) **[TejaTadepalli](https://github.com/TejaTadepalli)** ([#2145](https://github.com/rossjrw/rossjrw/issues/2145)).
+1. A game was started on 14th Mar 2023 by ![](https://github.com/Murdeala.png?size=16) **[Murdeala](https://github.com/Murdeala)** and ended on 13th Apr 2023. 
    * The :white_circle:white team won. 
    * 19 players played 141 moves across 4 weeks and 1 day. 
    * The :black_circle:black team captured 4 white pieces and claimed 18 rosettes. 
    * The :white_circle:white team captured 12 black pieces and claimed 16 rosettes. 
-   * The MVP of the winning team was **[@CostasAK](https://github.com/CostasAK)**, who played 71 moves. 
-   * The winning move was made by **[@CostasAK](https://github.com/CostasAK)** ([#2275](https://github.com/rossjrw/rossjrw/issues/2275)).
-1. A game was started on 13th Apr 2023 by **[@thisiscoding1234](https://github.com/thisiscoding1234)** and ended on 7th Jul 2023. 
+   * The MVP of the winning team was ![](https://github.com/CostasAK.png?size=16) **[CostasAK](https://github.com/CostasAK)**, who played 71 moves. 
+   * The winning move was made by ![](https://github.com/CostasAK.png?size=16) **[CostasAK](https://github.com/CostasAK)** ([#2275](https://github.com/rossjrw/rossjrw/issues/2275)).
+1. A game was started on 13th Apr 2023 by ![](https://github.com/thisiscoding1234.png?size=16) **[thisiscoding1234](https://github.com/thisiscoding1234)** and ended on 7th Jul 2023. 
    * The :black_circle:black team won. 
    * 48 players played 122 moves across 2 months and 3 weeks. 
    * The :black_circle:black team captured 11 white pieces and claimed 15 rosettes. 
    * The :white_circle:white team captured 4 black pieces and claimed 9 rosettes. 
-   * The MVP of the winning team was **[@Murdeala](https://github.com/Murdeala)**, who played 37 moves. 
-   * The winning move was made by **[@WKL10086](https://github.com/WKL10086)** ([#2460](https://github.com/rossjrw/rossjrw/issues/2460)).
-1. A game was started on 7th Jul 2023 by **[@kztera](https://github.com/kztera)** and ended on 26th Oct 2023. 
+   * The MVP of the winning team was ![](https://github.com/Murdeala.png?size=16) **[Murdeala](https://github.com/Murdeala)**, who played 37 moves. 
+   * The winning move was made by ![](https://github.com/WKL10086.png?size=16) **[WKL10086](https://github.com/WKL10086)** ([#2460](https://github.com/rossjrw/rossjrw/issues/2460)).
+1. A game was started on 7th Jul 2023 by ![](https://github.com/kztera.png?size=16) **[kztera](https://github.com/kztera)** and ended on 26th Oct 2023. 
    * The :white_circle:white team won. 
    * 38 players played 142 moves across 3 months and 2 weeks. 
    * The :black_circle:black team captured 5 white pieces and claimed 14 rosettes. 
    * The :white_circle:white team captured 12 black pieces and claimed 14 rosettes. 
-   * The MVP of the winning team was **[@CostasAK](https://github.com/CostasAK)**, who played 53 moves. 
-   * The winning move was made by **[@CostasAK](https://github.com/CostasAK)** ([#2612](https://github.com/rossjrw/rossjrw/issues/2612)).
-1. A game was started on 27th Oct 2023 by **[@blacksmithop](https://github.com/blacksmithop)** and ended on 3rd Dec 2023. 
+   * The MVP of the winning team was ![](https://github.com/CostasAK.png?size=16) **[CostasAK](https://github.com/CostasAK)**, who played 53 moves. 
+   * The winning move was made by ![](https://github.com/CostasAK.png?size=16) **[CostasAK](https://github.com/CostasAK)** ([#2612](https://github.com/rossjrw/rossjrw/issues/2612)).
+1. A game was started on 27th Oct 2023 by ![](https://github.com/blacksmithop.png?size=16) **[blacksmithop](https://github.com/blacksmithop)** and ended on 3rd Dec 2023. 
    * The :black_circle:black team won. 
    * 22 players played 55 moves across 1 month and 6 days. 
    * The :black_circle:black team captured 5 white pieces and claimed 11 rosettes. 
    * The :white_circle:white team captured 0 black pieces and claimed 3 rosettes. 
-   * The MVP of the winning team was **[@CostasAK](https://github.com/CostasAK)**, who played 26 moves. 
-   * The winning move was made by **[@CostasAK](https://github.com/CostasAK)** ([#2664](https://github.com/rossjrw/rossjrw/issues/2664)).
-1. A game was started on 4th Dec 2023 by **[@joshuajohncohen](https://github.com/joshuajohncohen)** and ended on 11th Apr 2024. 
+   * The MVP of the winning team was ![](https://github.com/CostasAK.png?size=16) **[CostasAK](https://github.com/CostasAK)**, who played 26 moves. 
+   * The winning move was made by ![](https://github.com/CostasAK.png?size=16) **[CostasAK](https://github.com/CostasAK)** ([#2664](https://github.com/rossjrw/rossjrw/issues/2664)).
+1. A game was started on 4th Dec 2023 by ![](https://github.com/joshuajohncohen.png?size=16) **[joshuajohncohen](https://github.com/joshuajohncohen)** and ended on 11th Apr 2024. 
    * The :black_circle:black team won. 
    * 44 players played 133 moves across 4 months and 6 days. 
    * The :black_circle:black team captured 11 white pieces and claimed 16 rosettes. 
    * The :white_circle:white team captured 5 black pieces and claimed 12 rosettes. 
-   * The MVP of the winning team was **[@CostasAK](https://github.com/CostasAK)**, who played 49 moves. 
-   * The winning move was made by **[@tassiaaccioly](https://github.com/tassiaaccioly)** ([#2796](https://github.com/rossjrw/rossjrw/issues/2796)).
-1. A game was started on 11th Apr 2024 by **[@tassiaaccioly](https://github.com/tassiaaccioly)** and ended on 12th May 2024. 
+   * The MVP of the winning team was ![](https://github.com/CostasAK.png?size=16) **[CostasAK](https://github.com/CostasAK)**, who played 49 moves. 
+   * The winning move was made by ![](https://github.com/tassiaaccioly.png?size=16) **[tassiaaccioly](https://github.com/tassiaaccioly)** ([#2796](https://github.com/rossjrw/rossjrw/issues/2796)).
+1. A game was started on 11th Apr 2024 by ![](https://github.com/tassiaaccioly.png?size=16) **[tassiaaccioly](https://github.com/tassiaaccioly)** and ended on 12th May 2024. 
    * The :white_circle:white team won. 
    * 16 players played 206 moves across 1 month and 22 hours. 
    * The :black_circle:black team captured 13 white pieces and claimed 22 rosettes. 
    * The :white_circle:white team captured 16 black pieces and claimed 25 rosettes. 
-   * The MVP of the winning team was **[@Casper-Guo](https://github.com/Casper-Guo)**, who played 75 moves. 
-   * The winning move was made by **[@Casper-Guo](https://github.com/Casper-Guo)** ([#2985](https://github.com/rossjrw/rossjrw/issues/2985)).
-1. A game was started on 12th May 2024 by **[@Casper-Guo](https://github.com/Casper-Guo)** and ended on 10th Jun 2024. 
+   * The MVP of the winning team was ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)**, who played 75 moves. 
+   * The winning move was made by ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** ([#2985](https://github.com/rossjrw/rossjrw/issues/2985)).
+1. A game was started on 12th May 2024 by ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** and ended on 10th Jun 2024. 
    * The :white_circle:white team won. 
    * 14 players played 157 moves across 4 weeks and 1 day. 
    * The :black_circle:black team captured 9 white pieces and claimed 15 rosettes. 
    * The :white_circle:white team captured 9 black pieces and claimed 16 rosettes. 
-   * The MVP of the winning team was **[@Casper-Guo](https://github.com/Casper-Guo)**, who played 51 moves. 
-   * The winning move was made by **[@Casper-Guo](https://github.com/Casper-Guo)** ([#3139](https://github.com/rossjrw/rossjrw/issues/3139)).
-1. A game was started on 10th Jun 2024 by **[@Casper-Guo](https://github.com/Casper-Guo)** and ended on 16th Jul 2024. 
+   * The MVP of the winning team was ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)**, who played 51 moves. 
+   * The winning move was made by ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** ([#3139](https://github.com/rossjrw/rossjrw/issues/3139)).
+1. A game was started on 10th Jun 2024 by ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** and ended on 16th Jul 2024. 
    * The :black_circle:black team won. 
    * 16 players played 171 moves across 1 month and 5 days. 
    * The :black_circle:black team captured 15 white pieces and claimed 18 rosettes. 
    * The :white_circle:white team captured 12 black pieces and claimed 20 rosettes. 
-   * The MVP of the winning team was **[@tassiaaccioly](https://github.com/tassiaaccioly)**, who played 75 moves. 
-   * The winning move was made by **[@tassiaaccioly](https://github.com/tassiaaccioly)** ([#3309](https://github.com/rossjrw/rossjrw/issues/3309)).
-1. A game was started on 16th Jul 2024 by **[@tassiaaccioly](https://github.com/tassiaaccioly)** and ended on 30th Sep 2024. 
+   * The MVP of the winning team was ![](https://github.com/tassiaaccioly.png?size=16) **[tassiaaccioly](https://github.com/tassiaaccioly)**, who played 75 moves. 
+   * The winning move was made by ![](https://github.com/tassiaaccioly.png?size=16) **[tassiaaccioly](https://github.com/tassiaaccioly)** ([#3309](https://github.com/rossjrw/rossjrw/issues/3309)).
+1. A game was started on 16th Jul 2024 by ![](https://github.com/tassiaaccioly.png?size=16) **[tassiaaccioly](https://github.com/tassiaaccioly)** and ended on 30th Sep 2024. 
    * The :white_circle:white team won. 
    * 27 players played 192 moves across 2 months and 2 weeks. 
    * The :black_circle:black team captured 10 white pieces and claimed 20 rosettes. 
    * The :white_circle:white team captured 13 black pieces and claimed 23 rosettes. 
-   * The MVP of the winning team was **[@huuquyet](https://github.com/huuquyet)**, who played 36 moves. 
-   * The winning move was made by **[@AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)** ([#3494](https://github.com/rossjrw/rossjrw/issues/3494)).
-1. A game was started on 30th Sep 2024 by **[@AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)** and ended on 17th Oct 2024. 
+   * The MVP of the winning team was ![](https://github.com/huuquyet.png?size=16) **[huuquyet](https://github.com/huuquyet)**, who played 36 moves. 
+   * The winning move was made by ![](https://github.com/AdityaSreevatsaK.png?size=16) **[AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)** ([#3494](https://github.com/rossjrw/rossjrw/issues/3494)).
+1. A game was started on 30th Sep 2024 by ![](https://github.com/AdityaSreevatsaK.png?size=16) **[AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)** and ended on 17th Oct 2024. 
    * The :white_circle:white team won. 
    * 12 players played 145 moves across 2 weeks and 3 days. 
    * The :black_circle:black team captured 6 white pieces and claimed 19 rosettes. 
    * The :white_circle:white team captured 6 black pieces and claimed 16 rosettes. 
-   * The MVP of the winning team was **[@Casper-Guo](https://github.com/Casper-Guo)**, who played 37 moves. 
-   * The winning move was made by **[@Casper-Guo](https://github.com/Casper-Guo)** ([#3630](https://github.com/rossjrw/rossjrw/issues/3630)).
-1. A game was started on 17th Oct 2024 by **[@Casper-Guo](https://github.com/Casper-Guo)** and ended on 4th Nov 2024. 
+   * The MVP of the winning team was ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)**, who played 37 moves. 
+   * The winning move was made by ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** ([#3630](https://github.com/rossjrw/rossjrw/issues/3630)).
+1. A game was started on 17th Oct 2024 by ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** and ended on 4th Nov 2024. 
    * The :white_circle:white team won. 
    * 7 players played 156 moves across 2 weeks and 3 days. 
    * The :black_circle:black team captured 8 white pieces and claimed 18 rosettes. 
    * The :white_circle:white team captured 7 black pieces and claimed 22 rosettes. 
-   * The MVP of the winning team was **[@Casper-Guo](https://github.com/Casper-Guo)**, who played 64 moves. 
-   * The winning move was made by **[@Casper-Guo](https://github.com/Casper-Guo)** ([#3781](https://github.com/rossjrw/rossjrw/issues/3781)).
-1. A game was started on 4th Nov 2024 by **[@Casper-Guo](https://github.com/Casper-Guo)** and ended on 14th Jan 2025. 
+   * The MVP of the winning team was ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)**, who played 64 moves. 
+   * The winning move was made by ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** ([#3781](https://github.com/rossjrw/rossjrw/issues/3781)).
+1. A game was started on 4th Nov 2024 by ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** and ended on 14th Jan 2025. 
    * The :black_circle:black team won. 
    * 11 players played 131 moves across 2 months and 1 week. 
    * The :black_circle:black team captured 5 white pieces and claimed 13 rosettes. 
    * The :white_circle:white team captured 4 black pieces and claimed 13 rosettes. 
-   * The MVP of the winning team was **[@LucasFASouza](https://github.com/LucasFASouza)**, who played 57 moves. 
-   * The winning move was made by **[@LucasFASouza](https://github.com/LucasFASouza)** ([#3906](https://github.com/rossjrw/rossjrw/issues/3906)).
-1. A game was started on 14th Jan 2025 by **[@LucasFASouza](https://github.com/LucasFASouza)** and ended on 4th Apr 2025. 
+   * The MVP of the winning team was ![](https://github.com/LucasFASouza.png?size=16) **[LucasFASouza](https://github.com/LucasFASouza)**, who played 57 moves. 
+   * The winning move was made by ![](https://github.com/LucasFASouza.png?size=16) **[LucasFASouza](https://github.com/LucasFASouza)** ([#3906](https://github.com/rossjrw/rossjrw/issues/3906)).
+1. A game was started on 14th Jan 2025 by ![](https://github.com/LucasFASouza.png?size=16) **[LucasFASouza](https://github.com/LucasFASouza)** and ended on 4th Apr 2025. 
    * The :white_circle:white team won. 
    * 30 players played 127 moves across 2 months and 2 weeks. 
    * The :black_circle:black team captured 6 white pieces and claimed 15 rosettes. 
    * The :white_circle:white team captured 9 black pieces and claimed 21 rosettes. 
-   * The MVP of the winning team was **[@Casper-Guo](https://github.com/Casper-Guo)**, who played 51 moves. 
-   * The winning move was made by **[@Casper-Guo](https://github.com/Casper-Guo)** ([#4038](https://github.com/rossjrw/rossjrw/issues/4038)).
+   * The MVP of the winning team was ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)**, who played 51 moves. 
+   * The winning move was made by ![](https://github.com/Casper-Guo.png?size=16) **[Casper-Guo](https://github.com/Casper-Guo)** ([#4038](https://github.com/rossjrw/rossjrw/issues/4038)).
 
 </details>
 
@@ -379,10 +382,10 @@ sure you ping me in your issue or PR by adding `cc @rossjrw`, as I don't receive
 -----
 
 <p align="right">
-  <a href="https://github.com/rossjrw/rossjrw/actions?query=workflow:build">
-    <img src="https://github.com/rossjrw/rossjrw/workflows/build/badge.svg?branch=source"/>
+  <a href="https://github.com/rossjrw/rossjrw/actions/workflows/build.yml">
+    <img src="https://github.com/rossjrw/rossjrw/actions/workflows/build.yml/badge.svg"/>
   </a>
-  <a href="https://github.com/rossjrw/rossjrw/actions?query=workflow:play">
-    <img src="https://github.com/rossjrw/rossjrw/workflows/play/badge.svg?branch=play"/>
+  <a href="https://github.com/rossjrw/rossjrw/actions/workflows/play.yml">
+    <img src="https://github.com/rossjrw/rossjrw/actions/workflows/play.yml/badge.svg"/>
   </a>
 </p>
