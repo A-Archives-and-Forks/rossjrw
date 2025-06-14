@@ -534,7 +534,7 @@
     "time": "2025-06-14T12:08:56.661Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/756fadcc378b8dc21020d8caa9c96ec92e9726df/games/current/board.4069.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -544,5 +544,22 @@
     "fromPosition": 2,
     "toPosition": 6,
     "roll": 4
+  },
+  {
+    "username": "Abdullah-Maqbool1",
+    "issue": 4070,
+    "time": "2025-06-14T18:44:06.954Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 4,
+    "toPosition": 5,
+    "roll": 1
   }
 ]
