@@ -517,7 +517,7 @@
     "time": "2025-06-04T16:46:08.793Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/82db33eea0263023aa47e305aa53f819bbde07e4/games/current/board.4068.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -527,5 +527,22 @@
     "fromPosition": 7,
     "toPosition": 9,
     "roll": 2
+  },
+  {
+    "username": "gorghs",
+    "issue": 4069,
+    "time": "2025-06-14T12:08:56.661Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 2,
+    "toPosition": 6,
+    "roll": 4
   }
 ]
