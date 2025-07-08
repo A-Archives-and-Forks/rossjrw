@@ -653,7 +653,7 @@
     "time": "2025-07-01T18:21:07.314Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/72b89a5f791959ccfd9c04a7780c56185efe6901/games/current/board.4077.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -663,5 +663,22 @@
     "fromPosition": 0,
     "toPosition": 2,
     "roll": 2
+  },
+  {
+    "username": "julesclaeys",
+    "issue": 4078,
+    "time": "2025-07-08T14:27:49.601Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 3,
+    "toPosition": 4,
+    "roll": 1
   }
 ]
