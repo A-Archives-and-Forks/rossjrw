@@ -670,7 +670,7 @@
     "time": "2025-07-08T14:27:49.601Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/8ef61639c7b381b7d59b5a74720963096033be2d/games/current/board.4078.svg",
     "events": {
       "rosetteClaimed": true,
       "captureHappened": false,
@@ -679,6 +679,23 @@
     },
     "fromPosition": 3,
     "toPosition": 4,
+    "roll": 1
+  },
+  {
+    "username": "IoannTerrible",
+    "issue": 4079,
+    "time": "2025-07-11T15:42:04.106Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 1,
     "roll": 1
   }
 ]
