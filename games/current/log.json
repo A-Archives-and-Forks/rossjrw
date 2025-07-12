@@ -721,7 +721,7 @@
     "time": "2025-07-11T15:58:33.923Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/f95733bafd25f1ddf5c29be7d92125548f05421d/games/current/board.4081.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -730,6 +730,23 @@
     },
     "fromPosition": 9,
     "toPosition": 10,
+    "roll": 1
+  },
+  {
+    "username": "lindelwa122",
+    "issue": 4082,
+    "time": "2025-07-12T14:01:55.001Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": true,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 5,
+    "toPosition": 6,
     "roll": 1
   }
 ]
