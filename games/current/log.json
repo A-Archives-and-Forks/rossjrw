@@ -772,7 +772,7 @@
     "time": "2025-07-29T22:53:46.112Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/c18f1eaad3fa3c7ee2526b042988e3dedf2b1afd/games/current/board.4084.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -781,6 +781,23 @@
     },
     "fromPosition": 0,
     "toPosition": 2,
+    "roll": 2
+  },
+  {
+    "username": "KhanMaytok",
+    "issue": 4085,
+    "time": "2025-08-14T19:27:17.918Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 10,
+    "toPosition": 12,
     "roll": 2
   }
 ]
