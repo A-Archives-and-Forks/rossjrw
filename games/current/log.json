@@ -806,7 +806,7 @@
     "time": "2025-08-20T12:41:45.648Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/32b9f34e6eefbbdae7892f3e328b9a35f114eaf6/games/current/board.4086.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -816,5 +816,22 @@
     "fromPosition": 0,
     "toPosition": 3,
     "roll": 3
+  },
+  {
+    "username": "alihadi202",
+    "issue": 4087,
+    "time": "2025-08-27T02:04:30.162Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 2,
+    "roll": 2
   }
 ]
