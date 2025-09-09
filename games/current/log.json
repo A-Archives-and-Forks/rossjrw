@@ -840,7 +840,7 @@
     "time": "2025-08-28T17:20:35.738Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/2e2db3f785939758bec566e90006e610218cfd73/games/current/board.4088.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -850,5 +850,22 @@
     "fromPosition": 3,
     "toPosition": 6,
     "roll": 3
+  },
+  {
+    "username": "Roli-Dwivedi",
+    "issue": 4089,
+    "time": "2025-09-09T16:32:40.781Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 12,
+    "toPosition": 14,
+    "roll": 2
   }
 ]
