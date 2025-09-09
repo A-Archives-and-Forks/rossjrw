@@ -857,7 +857,7 @@
     "time": "2025-09-09T16:32:40.781Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/708b5c08163ed89199544c68fcdebc576bf8313a/games/current/board.4089.svg",
     "events": {
       "rosetteClaimed": true,
       "captureHappened": false,
@@ -867,5 +867,22 @@
     "fromPosition": 12,
     "toPosition": 14,
     "roll": 2
+  },
+  {
+    "username": "maxiride",
+    "issue": 4090,
+    "time": "2025-09-09T21:10:04.713Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 1,
+    "roll": 1
   }
 ]
