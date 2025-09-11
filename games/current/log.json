@@ -874,7 +874,7 @@
     "time": "2025-09-09T21:10:04.713Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/da1862b502cf1a8951253c50758edeb1f8ba9ba0/games/current/board.4090.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -884,5 +884,22 @@
     "fromPosition": 0,
     "toPosition": 1,
     "roll": 1
+  },
+  {
+    "username": "kyuuaditya",
+    "issue": 4091,
+    "time": "2025-09-11T11:08:04.980Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": true,
+      "gameWon": false
+    },
+    "fromPosition": 13,
+    "toPosition": 15,
+    "roll": 2
   }
 ]
