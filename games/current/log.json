@@ -891,7 +891,7 @@
     "time": "2025-09-11T11:08:04.980Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/e635e085cbab95a562a187e3188a8fea8bf0cc7c/games/current/board.4091.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -901,5 +901,22 @@
     "fromPosition": 13,
     "toPosition": 15,
     "roll": 2
+  },
+  {
+    "username": "VladTHK",
+    "issue": 4092,
+    "time": "2025-09-16T17:55:05.098Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 1,
+    "toPosition": 4,
+    "roll": 3
   }
 ]
