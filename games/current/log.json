@@ -925,7 +925,7 @@
     "time": "2025-09-16T21:26:13.654Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/4c974ce05f44f6d9328cad85948230945eec5987/games/current/board.4093.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -935,5 +935,22 @@
     "fromPosition": 0,
     "toPosition": 1,
     "roll": 1
+  },
+  {
+    "username": "rocktutman1",
+    "issue": 4094,
+    "time": "2025-09-22T20:34:13.799Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 6,
+    "toPosition": 10,
+    "roll": 4
   }
 ]
