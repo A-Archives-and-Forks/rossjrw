@@ -959,7 +959,7 @@
     "time": "2025-09-22T23:31:15.060Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/8745a5e5cfc80193b881a0d27c56347971b967ff/games/current/board.4095.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -969,5 +969,22 @@
     "fromPosition": 0,
     "toPosition": 3,
     "roll": 3
+  },
+  {
+    "username": "BrAtUkA",
+    "issue": 4096,
+    "time": "2025-09-24T04:18:33.125Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 2,
+    "toPosition": 3,
+    "roll": 1
   }
 ]
