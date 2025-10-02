@@ -993,7 +993,7 @@
     "time": "2025-09-24T20:53:19.135Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/7b59f57e848d645260058be2fa70e13486727c3a/games/current/board.4097.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -1003,5 +1003,22 @@
     "fromPosition": 8,
     "toPosition": 10,
     "roll": 2
+  },
+  {
+    "username": "Shengxiang-Lin",
+    "issue": 4099,
+    "time": "2025-10-02T08:39:19.676Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 4,
+    "toPosition": 7,
+    "roll": 3
   }
 ]
