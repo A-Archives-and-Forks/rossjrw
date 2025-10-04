@@ -1027,7 +1027,7 @@
     "time": "2025-10-02T08:40:23.972Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/f651a2f9c60ac4f3359ed346d7384c3838dc43b9/games/current/board.4100.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -1037,5 +1037,22 @@
     "fromPosition": 4,
     "toPosition": 7,
     "roll": 3
+  },
+  {
+    "username": "qheizen",
+    "issue": 4101,
+    "time": "2025-10-04T12:19:54.515Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 2,
+    "roll": 2
   }
 ]
