@@ -1122,5 +1122,34 @@
     "fromPosition": 14,
     "toPosition": 15,
     "roll": 1
+  },
+  {
+    "username": "AlbaRoDev",
+    "issue": 4106,
+    "time": "2025-10-08T13:32:49.963Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/dc99eae1a72ab843461f7272e8bd6e563bdb8db7/games/current/board.4106.svg",
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 3,
+    "toPosition": 5,
+    "roll": 2
+  },
+  {
+    "username": "AlbaRoDev",
+    "issue": 4106,
+    "time": "2025-10-08T13:32:49.963Z",
+    "team": "w",
+    "action": "pass",
+    "boardImage": null,
+    "events": null,
+    "fromPosition": null,
+    "toPosition": null,
+    "roll": 0
   }
 ]
