@@ -1146,10 +1146,27 @@
     "time": "2025-10-08T13:32:49.963Z",
     "team": "w",
     "action": "pass",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/a67f281133330de109436df6d2cebdd77da585a9/games/current/board.4106.svg",
     "events": null,
     "fromPosition": null,
     "toPosition": null,
     "roll": 0
+  },
+  {
+    "username": "Spectra010s",
+    "issue": 4107,
+    "time": "2025-10-19T05:15:14.311Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 5,
+    "toPosition": 9,
+    "roll": 3
   }
 ]
