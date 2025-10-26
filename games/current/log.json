@@ -1260,7 +1260,7 @@
     "time": "2025-10-25T07:46:14.528Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/7801035d6bb4d9c06c797fa404f75e9da348bee2/games/current/board.4114.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -1270,5 +1270,22 @@
     "fromPosition": 8,
     "toPosition": 10,
     "roll": 2
+  },
+  {
+    "username": "rusteddaemond",
+    "issue": 4115,
+    "time": "2025-10-26T18:54:39.761Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 4,
+    "toPosition": 5,
+    "roll": 1
   }
 ]
