@@ -1430,7 +1430,7 @@
     "time": "2025-11-06T04:26:11.939Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/46baa3dcaec95543a04935bc00e002b6e01f0100/games/current/board.4124.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -1439,6 +1439,23 @@
     },
     "fromPosition": 4,
     "toPosition": 6,
+    "roll": 2
+  },
+  {
+    "username": "Ashishs24",
+    "issue": 4125,
+    "time": "2025-11-08T06:46:20.458Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 2,
     "roll": 2
   }
 ]
