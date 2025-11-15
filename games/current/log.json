@@ -1498,7 +1498,7 @@
     "time": "2025-11-08T09:06:01.638Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/d68820716d70efc23c44429f6e137c135fc8cb06/games/current/board.4128.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -1507,6 +1507,23 @@
     },
     "fromPosition": 8,
     "toPosition": 10,
+    "roll": 2
+  },
+  {
+    "username": "netzen-sys",
+    "issue": 4129,
+    "time": "2025-11-15T18:00:55.814Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 2,
+    "toPosition": 4,
     "roll": 2
   }
 ]
