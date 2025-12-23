@@ -1668,7 +1668,7 @@
     "time": "2025-12-20T01:07:22.362Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/05192ec1a863b95ccf41b4e68b0f8582e1422dba/games/current/board.4139.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -1678,5 +1678,22 @@
     "fromPosition": 12,
     "toPosition": 15,
     "roll": 3
+  },
+  {
+    "username": "Sunii-999",
+    "issue": 4141,
+    "time": "2025-12-23T14:05:46.645Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 5,
+    "toPosition": 7,
+    "roll": 2
   }
 ]
