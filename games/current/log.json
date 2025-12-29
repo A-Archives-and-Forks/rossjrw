@@ -1702,7 +1702,7 @@
     "time": "2025-12-23T15:37:19.674Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/8b0742c85ca0e2440f0ae7e1803ca676b98e3607/games/current/board.4142.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -1712,5 +1712,22 @@
     "fromPosition": 14,
     "toPosition": 15,
     "roll": 1
+  },
+  {
+    "username": "Lettly",
+    "issue": 4144,
+    "time": "2025-12-29T10:35:38.967Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 4,
+    "toPosition": 6,
+    "roll": 2
   }
 ]
