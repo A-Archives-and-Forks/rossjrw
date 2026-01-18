@@ -2396,7 +2396,7 @@
     "time": "2026-01-16T17:14:53.519Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/7f5df31d2cacf2c81dd6abcc85dd1543a80689fe/games/current/board.4182.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -2406,5 +2406,22 @@
     "fromPosition": 5,
     "toPosition": 6,
     "roll": 1
+  },
+  {
+    "username": "Allakulyyev",
+    "issue": 4183,
+    "time": "2026-01-18T01:19:15.418Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 7,
+    "toPosition": 10,
+    "roll": 3
   }
 ]
