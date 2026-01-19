@@ -2430,7 +2430,7 @@
     "time": "2026-01-18T03:57:10.889Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/2bec64fdc49229d1625b7255d2400d74f9d18cac/games/current/board.4184.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -2440,5 +2440,22 @@
     "fromPosition": 6,
     "toPosition": 9,
     "roll": 2
+  },
+  {
+    "username": "Bewouss1",
+    "issue": 4185,
+    "time": "2026-01-19T08:01:16.500Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": true,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 8,
+    "toPosition": 9,
+    "roll": 1
   }
 ]
