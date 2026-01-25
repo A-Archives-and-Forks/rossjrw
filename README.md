@@ -1,29 +1,29 @@
-Welcome to my Github profile! We're playing [the Royal Game of Ur](https://en.wikipedia.org/wiki/Royal_Game_of_Ur). **Game #27 is in progress,** but you can join!
+Welcome to my Github profile! We're playing [the Royal Game of Ur](https://en.wikipedia.org/wiki/Royal_Game_of_Ur). **Game #28 is in progress,** but you can join!
 
 <p align="center">
-  <b>It's the :black_circle:black team's turn.</b>
+  <b>It's the :white_circle:white team's turn.</b>
 </p>
 
 You're on a team! :wave:
 
 * If you've already played a turn this game, you're already on a team &mdash; check the game log below for a reminder. If it's not your turn, check back later, or ask a friend to make a move.
-* If you've not yet played a turn this game, make a move now to join the **:black_circle:black** team.
+* If you've not yet played a turn this game, make a move now to join the **:white_circle:white** team.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4211.svg">
+  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4212.svg">
 </p>
 
-**:black_circle:Black team:** You rolled a 3!
+**:white_circle:White team:** You rolled a 2!
 What would you like to do?
 
 | Choices *(pick one of them!)* |
 | --- |
-  | [    Move a new piece to tile 3](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-3%400-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move a new piece to tile 2](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%400-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
 
 -----
 
 <details>
-<summary><b>Game #27 so far</b></summary>
+<summary><b>Game #28 so far</b></summary>
 
 ## Who's on each team?
 
@@ -37,7 +37,7 @@ What would you like to do?
         <td>:white_circle: <b> White team</b></td>
       </tr>
       <tr align="center">
-        <td><b><img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> <a href="https://github.com/LucasFASouza">LucasFASouza</a></b> (1)</td>
+        <td><b><img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> <a href="https://github.com/LucasFASouza">LucasFASouza</a></b> (2)</td>
         <td></td>
       </tr>
     </tbody>
@@ -49,7 +49,8 @@ Moves played in this game, most recent first:
 
 | Time | Turn | Event | Issue | Board |
 | :---: | :---: | :--- | :---: | :---: |
-| 25th Jan 2026 18:43 | **1** | :black_circle: <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** started a new game | [#4211](https://github.com/rossjrw/rossjrw/issues/4211) |  |
+| 25th Jan 2026 18:45 | **2** | :black_circle: <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** moved a black piece onto the board to position 3    | [#4212](https://github.com/rossjrw/rossjrw/issues/4212) |  |
+| 25th Jan 2026 18:43 | **1** | :black_circle: <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** started a new game | [#4211](https://github.com/rossjrw/rossjrw/issues/4211) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/cc1725f9a4046b30f68767efdceb0f79a95d84ee/games/current/board.4211.svg) |
 
 </details>
 
@@ -240,6 +241,13 @@ Moves played in this game, most recent first:
    * The :white_circle:white team captured 9 black pieces and claimed 21 rosettes. 
    * The MVP of the winning team was <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)**, who played 51 moves. 
    * The winning move was made by <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** ([#4038](https://github.com/rossjrw/rossjrw/issues/4038)).
+1. A game was started on 4th Apr 2025 by <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** and ended on 25th Jan 2026. 
+   * The :black_circle:black team won. 
+   * 54 players played 176 moves across 9 months and 3 weeks. 
+   * The :black_circle:black team captured 9 white pieces and claimed 18 rosettes. 
+   * The :white_circle:white team captured 9 black pieces and claimed 23 rosettes. 
+   * The MVP of the winning team was <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)**, who played 42 moves. 
+   * The winning move was made by <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** ([#4210](https://github.com/rossjrw/rossjrw/issues/4210)).
 
 </details>
 
