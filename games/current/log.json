@@ -289,7 +289,7 @@
     "time": "2026-01-29T17:36:21.338Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/9dadc13ffd462a917a5f3dc074857bd0ec1f5c83/games/current/board.4228.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -299,5 +299,22 @@
     "fromPosition": 4,
     "toPosition": 6,
     "roll": 2
+  },
+  {
+    "username": "D4rk-Pho3nix",
+    "issue": 4229,
+    "time": "2026-01-30T07:36:43.315Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 1,
+    "roll": 1
   }
 ]
