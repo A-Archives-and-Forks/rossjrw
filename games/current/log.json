@@ -801,6 +801,23 @@
     "time": "2026-02-06T11:47:21.976Z",
     "team": "b",
     "action": "move",
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/907048450479c32fc0d0c4935255c49533d98247/games/current/board.4256.svg",
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 1,
+    "roll": 1
+  },
+  {
+    "username": "ethembeldagli",
+    "issue": 4257,
+    "time": "2026-02-06T12:51:00.285Z",
+    "team": "w",
+    "action": "move",
     "boardImage": null,
     "events": {
       "rosetteClaimed": false,
