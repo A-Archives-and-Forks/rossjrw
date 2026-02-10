@@ -818,7 +818,7 @@
     "time": "2026-02-06T12:51:00.285Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/926b927be87cd76f8b78a15bf8cc448185370e3c/games/current/board.4257.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -828,5 +828,22 @@
     "fromPosition": 0,
     "toPosition": 1,
     "roll": 1
+  },
+  {
+    "username": "paulKeev",
+    "issue": 4258,
+    "time": "2026-02-10T04:21:34.553Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 3,
+    "toPosition": 6,
+    "roll": 3
   }
 ]
