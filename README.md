@@ -1,27 +1,24 @@
 Welcome to my Github profile! We're playing [the Royal Game of Ur](https://en.wikipedia.org/wiki/Royal_Game_of_Ur). **Game #28 is in progress,** but you can join!
 
 <p align="center">
-  <b>It's the :white_circle:white team's turn.</b>
+  <b>It's the :black_circle:black team's turn.</b>
 </p>
 
 You're on a team! :wave:
 
 * If you've already played a turn this game, you're already on a team &mdash; check the game log below for a reminder. If it's not your turn, check back later, or ask a friend to make a move.
-* If you've not yet played a turn this game, make a move now to join the **:white_circle:white** team.
+* If you've not yet played a turn this game, make a move now to join the **:black_circle:black** team.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4261.svg">
+  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4262.svg">
 </p>
 
-**:white_circle:White team:** You rolled a 1!
+**:black_circle:Black team:** You rolled a 2!
 What would you like to do?
 
 | Choices *(pick one of them!)* |
 | --- |
-  | [    Move the piece on tile 2 to tile 3](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%402-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
-  | [    Move the piece on tile 4 to tile 5](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%404-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
-  | [    Move the piece on tile 6 to tile 7](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%406-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
-  | [    Move the piece on tile 9 to tile 10](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%409-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move the piece on tile 4 to tile 6](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%404-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
 
 -----
 
@@ -41,7 +38,7 @@ What would you like to do?
       </tr>
       <tr align="center">
         <td><b><img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> <a href="https://github.com/LucasFASouza">LucasFASouza</a></b> (19)<br><b><img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> <a href="https://github.com/AdityaSreevatsaK">AdityaSreevatsaK</a></b> (4)<br><b><img src="https://github.com/D4rk-Pho3nix.png?size=16" alt="" width="16"> <a href="https://github.com/D4rk-Pho3nix">D4rk-Pho3nix</a></b> (1)<br><b><img src="https://github.com/paulKeev.png?size=16" alt="" width="16"> <a href="https://github.com/paulKeev">paulKeev</a></b> (1)</td>
-        <td><b><img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> <a href="https://github.com/MatissesProjects">MatissesProjects</a></b> (24)<br><b><img src="https://github.com/ethembeldagli.png?size=16" alt="" width="16"> <a href="https://github.com/ethembeldagli">ethembeldagli</a></b> (1)</td>
+        <td><b><img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> <a href="https://github.com/MatissesProjects">MatissesProjects</a></b> (25)<br><b><img src="https://github.com/ethembeldagli.png?size=16" alt="" width="16"> <a href="https://github.com/ethembeldagli">ethembeldagli</a></b> (1)</td>
       </tr>
     </tbody>
   </table>
@@ -52,7 +49,8 @@ Moves played in this game, most recent first:
 
 | Time | Turn | Event | Issue | Board |
 | :---: | :---: | :--- | :---: | :---: |
-| 11th Feb 2026 13:57 | **53** | :black_circle: <img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> **[AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)** moved a black piece from position 1 to position 2    | [#4261](https://github.com/rossjrw/rossjrw/issues/4261) |  |
+| 11th Feb 2026 20:28 | **54** | :white_circle: <img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> **[MatissesProjects](https://github.com/MatissesProjects)** moved a white piece from position 6 to position 7    | [#4262](https://github.com/rossjrw/rossjrw/issues/4262) |  |
+| 11th Feb 2026 13:57 | **53** | :black_circle: <img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> **[AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)** moved a black piece from position 1 to position 2    | [#4261](https://github.com/rossjrw/rossjrw/issues/4261) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/e2596c86a25bcd343af1705a5f5835f17e759bcc/games/current/board.4261.svg) |
 | 10th Feb 2026 15:37 | **52** | :white_circle: <img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> **[MatissesProjects](https://github.com/MatissesProjects)** moved a white piece from position 3 to position 6 — captured a black piece :crossed_swords:   | [#4260](https://github.com/rossjrw/rossjrw/issues/4260) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/24bf4c30f8bce8f3622db1f96d4989a20edb939f/games/current/board.4260.svg) |
 | 10th Feb 2026 04:21 | **51** | :black_circle: <img src="https://github.com/paulKeev.png?size=16" alt="" width="16"> **[paulKeev](https://github.com/paulKeev)** moved a black piece from position 3 to position 6    | [#4258](https://github.com/rossjrw/rossjrw/issues/4258) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/b9e55959d4ce8f7323600491855af090856f86ce/games/current/board.4258.svg) |
 | 6th Feb 2026 12:51 | **50** | :white_circle: <img src="https://github.com/ethembeldagli.png?size=16" alt="" width="16"> **[ethembeldagli](https://github.com/ethembeldagli)** moved a white piece onto the board to position 1    | [#4257](https://github.com/rossjrw/rossjrw/issues/4257) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/926b927be87cd76f8b78a15bf8cc448185370e3c/games/current/board.4257.svg) |
