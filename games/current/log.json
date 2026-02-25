@@ -988,7 +988,7 @@
     "time": "2026-02-25T04:17:56.550Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/fa77c75bc90c10e896b16a77ebd3d5518182d3a4/games/current/board.4269.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -997,6 +997,23 @@
     },
     "fromPosition": 0,
     "toPosition": 2,
+    "roll": 2
+  },
+  {
+    "username": "San20506",
+    "issue": 4270,
+    "time": "2026-02-25T05:24:45.537Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 6,
+    "toPosition": 8,
     "roll": 2
   }
 ]
