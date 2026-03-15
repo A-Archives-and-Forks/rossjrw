@@ -1699,7 +1699,7 @@
     "time": "2026-03-15T06:14:31.857Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/325e491e0dcc63576a0d9ee2068affda18db0d58/games/current/board.4309.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -1709,5 +1709,22 @@
     "fromPosition": 7,
     "toPosition": 10,
     "roll": 3
+  },
+  {
+    "username": "gxcsoccer",
+    "issue": 4310,
+    "time": "2026-03-15T06:59:13.339Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 1,
+    "roll": 1
   }
 ]
