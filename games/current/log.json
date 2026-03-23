@@ -2080,7 +2080,7 @@
     "time": "2026-03-22T18:59:01.208Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/db9227e06c1927ab27eb6c1f84655c2289e3c91e/games/current/board.4330.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -2090,5 +2090,22 @@
     "fromPosition": 13,
     "toPosition": 15,
     "roll": 2
+  },
+  {
+    "username": "larralapid",
+    "issue": 4331,
+    "time": "2026-03-23T02:11:38.733Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 2,
+    "toPosition": 5,
+    "roll": 3
   }
 ]
