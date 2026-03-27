@@ -2296,7 +2296,7 @@
     "time": "2026-03-27T16:53:26.245Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/c4c785218162c0e475c4c3638d806762b7ecdef3/games/current/board.4342.svg",
     "events": {
       "rosetteClaimed": true,
       "captureHappened": false,
@@ -2306,5 +2306,22 @@
     "fromPosition": 7,
     "toPosition": 8,
     "roll": 1
+  },
+  {
+    "username": "AdityaSreevatsaK",
+    "issue": 4343,
+    "time": "2026-03-27T16:53:59.661Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 2,
+    "roll": 2
   }
 ]
