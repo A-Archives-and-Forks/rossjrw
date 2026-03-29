@@ -2432,5 +2432,58 @@
     "fromPosition": 3,
     "toPosition": 6,
     "roll": 3
+  },
+  {
+    "username": "AdityaSreevatsaK",
+    "issue": 4349,
+    "time": "2026-03-29T04:53:38.768Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 2,
+    "toPosition": 4,
+    "roll": 2
+  },
+  {
+    "username": "AdityaSreevatsaK",
+    "issue": 4349,
+    "time": "2026-03-29T04:53:38.768Z",
+    "team": "b",
+    "action": "pass",
+    "boardImage": null,
+    "events": null,
+    "fromPosition": null,
+    "toPosition": null,
+    "roll": 0
+  },
+  {
+    "username": "AdityaSreevatsaK",
+    "issue": 4349,
+    "time": "2026-03-29T04:53:38.768Z",
+    "team": "w",
+    "action": "pass",
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/b879fe7b79047f63b047f794724e7f41865d6c4f/games/current/board.4349.svg",
+    "events": null,
+    "fromPosition": null,
+    "toPosition": null,
+    "roll": 0
+  },
+  {
+    "username": "AdityaSreevatsaK",
+    "issue": 4349,
+    "time": "2026-03-29T04:53:38.769Z",
+    "team": "b",
+    "action": "pass",
+    "boardImage": null,
+    "events": null,
+    "fromPosition": null,
+    "toPosition": null,
+    "roll": 0
   }
 ]
