@@ -2480,10 +2480,27 @@
     "time": "2026-03-29T04:53:38.769Z",
     "team": "b",
     "action": "pass",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/1c0dc24912ef3dd909d25ed0088c8dea1c528510/games/current/board.4349.svg",
     "events": null,
     "fromPosition": null,
     "toPosition": null,
     "roll": 0
+  },
+  {
+    "username": "SAPTARSHI-coder",
+    "issue": 4350,
+    "time": "2026-03-29T16:15:52.385Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 9,
+    "toPosition": 11,
+    "roll": 2
   }
 ]
