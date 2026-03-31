@@ -2628,7 +2628,7 @@
     "time": "2026-03-31T05:05:09.828Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/52e395f7526f6e984888dba3f6eb53405747d4db/games/current/board.4358.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -2638,5 +2638,22 @@
     "fromPosition": 0,
     "toPosition": 3,
     "roll": 3
+  },
+  {
+    "username": "Loris383v",
+    "issue": 4359,
+    "time": "2026-03-31T09:17:27.072Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 10,
+    "toPosition": 12,
+    "roll": 2
   }
 ]
