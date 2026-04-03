@@ -2827,7 +2827,7 @@
     "time": "2026-04-03T18:31:21.401Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/b640ff05588098a09bf643f7980e134a255f0fac/games/current/board.4369.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -2836,6 +2836,23 @@
     },
     "fromPosition": 4,
     "toPosition": 6,
+    "roll": 2
+  },
+  {
+    "username": "hesreallyhim",
+    "issue": 4370,
+    "time": "2026-04-03T23:27:50.976Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 2,
     "roll": 2
   }
 ]
