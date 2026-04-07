@@ -3237,7 +3237,7 @@
     "time": "2026-04-07T05:35:12.358Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/222445888a9453723b98dc8fd5cbe0167eb49e43/games/current/board.4391.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -3247,5 +3247,22 @@
     "fromPosition": 0,
     "toPosition": 3,
     "roll": 3
+  },
+  {
+    "username": "MatissesProjects",
+    "issue": 4392,
+    "time": "2026-04-07T16:46:54.035Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 5,
+    "toPosition": 7,
+    "roll": 2
   }
 ]
