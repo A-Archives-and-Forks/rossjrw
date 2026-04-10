@@ -10,7 +10,7 @@ You're on a team! :wave:
 * If you've not yet played a turn this game, make a move now to join the **:white_circle:white** team.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4403.svg">
+  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4404.svg">
 </p>
 
 **:white_circle:White team:** You rolled a 3!
@@ -19,8 +19,8 @@ What would you like to do?
 | Choices *(pick one of them!)* |
 | --- |
   | [    Move a new piece to tile 3](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-3%400-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
-  | [    Move the piece on tile 4 to tile 7](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-3%404-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
   | [    Move the piece on tile 6 to tile 9](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-3%406-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move the piece on tile 7 to tile 10](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-3%407-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
 
 -----
 
@@ -40,7 +40,7 @@ What would you like to do?
       </tr>
       <tr align="center">
         <td><b><img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> <a href="https://github.com/AdityaSreevatsaK">AdityaSreevatsaK</a></b> (68)<br><b><img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> <a href="https://github.com/LucasFASouza">LucasFASouza</a></b> (23)<br><b><img src="https://github.com/D4rk-Pho3nix.png?size=16" alt="" width="16"> <a href="https://github.com/D4rk-Pho3nix">D4rk-Pho3nix</a></b> (1)<br><b><img src="https://github.com/paulKeev.png?size=16" alt="" width="16"> <a href="https://github.com/paulKeev">paulKeev</a></b> (1)<br><b><img src="https://github.com/adityababar07.png?size=16" alt="" width="16"> <a href="https://github.com/adityababar07">adityababar07</a></b> (1)<br><b><img src="https://github.com/ayushkumarjena15.png?size=16" alt="" width="16"> <a href="https://github.com/ayushkumarjena15">ayushkumarjena15</a></b> (1)<br><b><img src="https://github.com/hesreallyhim.png?size=16" alt="" width="16"> <a href="https://github.com/hesreallyhim">hesreallyhim</a></b> (1)</td>
-        <td><b><img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> <a href="https://github.com/MatissesProjects">MatissesProjects</a></b> (85)<br><b><img src="https://github.com/ethembeldagli.png?size=16" alt="" width="16"> <a href="https://github.com/ethembeldagli">ethembeldagli</a></b> (1)<br><b><img src="https://github.com/San20506.png?size=16" alt="" width="16"> <a href="https://github.com/San20506">San20506</a></b> (1)<br><b><img src="https://github.com/Murdeala.png?size=16" alt="" width="16"> <a href="https://github.com/Murdeala">Murdeala</a></b> (1)<br><b><img src="https://github.com/wsjishan.png?size=16" alt="" width="16"> <a href="https://github.com/wsjishan">wsjishan</a></b> (1)<br><b><img src="https://github.com/gxcsoccer.png?size=16" alt="" width="16"> <a href="https://github.com/gxcsoccer">gxcsoccer</a></b> (1)<br><b><img src="https://github.com/larralapid.png?size=16" alt="" width="16"> <a href="https://github.com/larralapid">larralapid</a></b> (1)<br><b><img src="https://github.com/SAPTARSHI-coder.png?size=16" alt="" width="16"> <a href="https://github.com/SAPTARSHI-coder">SAPTARSHI-coder</a></b> (1)<br><b><img src="https://github.com/Loris383v.png?size=16" alt="" width="16"> <a href="https://github.com/Loris383v">Loris383v</a></b> (1)</td>
+        <td><b><img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> <a href="https://github.com/MatissesProjects">MatissesProjects</a></b> (86)<br><b><img src="https://github.com/ethembeldagli.png?size=16" alt="" width="16"> <a href="https://github.com/ethembeldagli">ethembeldagli</a></b> (1)<br><b><img src="https://github.com/San20506.png?size=16" alt="" width="16"> <a href="https://github.com/San20506">San20506</a></b> (1)<br><b><img src="https://github.com/Murdeala.png?size=16" alt="" width="16"> <a href="https://github.com/Murdeala">Murdeala</a></b> (1)<br><b><img src="https://github.com/wsjishan.png?size=16" alt="" width="16"> <a href="https://github.com/wsjishan">wsjishan</a></b> (1)<br><b><img src="https://github.com/gxcsoccer.png?size=16" alt="" width="16"> <a href="https://github.com/gxcsoccer">gxcsoccer</a></b> (1)<br><b><img src="https://github.com/larralapid.png?size=16" alt="" width="16"> <a href="https://github.com/larralapid">larralapid</a></b> (1)<br><b><img src="https://github.com/SAPTARSHI-coder.png?size=16" alt="" width="16"> <a href="https://github.com/SAPTARSHI-coder">SAPTARSHI-coder</a></b> (1)<br><b><img src="https://github.com/Loris383v.png?size=16" alt="" width="16"> <a href="https://github.com/Loris383v">Loris383v</a></b> (1)</td>
       </tr>
     </tbody>
   </table>
@@ -51,6 +51,8 @@ Moves played in this game, most recent first:
 
 | Time | Turn | Event | Issue | Board |
 | :---: | :---: | :--- | :---: | :---: |
+| 10th Apr 2026 04:01 | **215** | :black_circle:  The black team rolled a 3 and their turn was automatically passed | [#4404](https://github.com/rossjrw/rossjrw/issues/4404) |  |
+| 10th Apr 2026 04:01 | **214** | :white_circle: <img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> **[MatissesProjects](https://github.com/MatissesProjects)** moved a white piece from position 4 to position 7    | [#4404](https://github.com/rossjrw/rossjrw/issues/4404) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/7d82a7d65bea1590f46c18168c8056f923056b64/games/current/board.4404.svg) |
 | 10th Apr 2026 04:01 | **213** | :white_circle: <img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> **[MatissesProjects](https://github.com/MatissesProjects)** moved a white piece from position 3 to position 4  — claimed a rosette :rosette:  | [#4403](https://github.com/rossjrw/rossjrw/issues/4403) |  |
 | 9th Apr 2026 15:19 | **212** | :black_circle:  The black team rolled a 0 and their turn was automatically passed | [#4402](https://github.com/rossjrw/rossjrw/issues/4402) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/27d58899220cef1c5d5f5c2e0d2f55177cd5ef2f/games/current/board.4402.svg) |
 | 9th Apr 2026 15:19 | **211** | :white_circle:  The white team rolled a 0 and their turn was automatically passed | [#4402](https://github.com/rossjrw/rossjrw/issues/4402) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/57360ae6fef80410e7848bbaa39fb138f30da1b9/games/current/board.4402.svg) |
