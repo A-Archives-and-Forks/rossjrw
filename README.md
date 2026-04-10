@@ -1,19 +1,19 @@
-Welcome to my Github profile! We're playing [the Royal Game of Ur](https://en.wikipedia.org/wiki/Royal_Game_of_Ur). **Game #28 is in progress,** but you can join!
+Welcome to my Github profile! We're playing [the Royal Game of Ur](https://en.wikipedia.org/wiki/Royal_Game_of_Ur). **Game #29 is in progress,** but you can join!
 
 <p align="center">
-  <b>It's the :black_circle:black team's turn.</b>
+  <b>It's the :white_circle:white team's turn.</b>
 </p>
 
 You're on a team! :wave:
 
 * If you've already played a turn this game, you're already on a team &mdash; check the game log below for a reminder. If it's not your turn, check back later, or ask a friend to make a move.
-* If you've not yet played a turn this game, make a move now to join the **:black_circle:black** team.
+* If you've not yet played a turn this game, make a move now to join the **:white_circle:white** team.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4409.svg">
+  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4410.svg">
 </p>
 
-**:black_circle:Black team:** You rolled a 2!
+**:white_circle:White team:** You rolled a 2!
 What would you like to do?
 
 | Choices *(pick one of them!)* |
@@ -23,7 +23,7 @@ What would you like to do?
 -----
 
 <details>
-<summary><b>Game #28 so far</b></summary>
+<summary><b>Game #29 so far</b></summary>
 
 ## Who's on each team?
 
@@ -37,7 +37,7 @@ What would you like to do?
         <td>:white_circle: <b> White team</b></td>
       </tr>
       <tr align="center">
-        <td><b><img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> <a href="https://github.com/AdityaSreevatsaK">AdityaSreevatsaK</a></b> (1)</td>
+        <td><b><img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> <a href="https://github.com/AdityaSreevatsaK">AdityaSreevatsaK</a></b> (2)</td>
         <td></td>
       </tr>
     </tbody>
@@ -49,7 +49,8 @@ Moves played in this game, most recent first:
 
 | Time | Turn | Event | Issue | Board |
 | :---: | :---: | :--- | :---: | :---: |
-| 10th Apr 2026 13:42 | **1** | :black_circle: <img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> **[AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)** started a new game | [#4409](https://github.com/rossjrw/rossjrw/issues/4409) |  |
+| 10th Apr 2026 13:44 | **2** | :black_circle: <img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> **[AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)** moved a black piece onto the board to position 2    | [#4410](https://github.com/rossjrw/rossjrw/issues/4410) |  |
+| 10th Apr 2026 13:42 | **1** | :black_circle: <img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> **[AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)** started a new game | [#4409](https://github.com/rossjrw/rossjrw/issues/4409) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/5641c841294ebffc97bc17ee1fb7d65307f858dc/games/current/board.4409.svg) |
 
 </details>
 
@@ -247,6 +248,13 @@ Moves played in this game, most recent first:
    * The :white_circle:white team captured 9 black pieces and claimed 23 rosettes. 
    * The MVP of the winning team was <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)**, who played 42 moves. 
    * The winning move was made by <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** ([#4210](https://github.com/rossjrw/rossjrw/issues/4210)).
+1. A game was started on 25th Jan 2026 by <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** and ended on 10th Apr 2026. 
+   * The :black_circle:black team won. 
+   * 16 players played 219 moves across 2 months and 1 week. 
+   * The :black_circle:black team captured 16 white pieces and claimed 26 rosettes. 
+   * The :white_circle:white team captured 15 black pieces and claimed 27 rosettes. 
+   * The MVP of the winning team was <img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> **[AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)**, who played 80 moves. 
+   * The winning move was made by <img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> **[AdityaSreevatsaK](https://github.com/AdityaSreevatsaK)** ([#4408](https://github.com/rossjrw/rossjrw/issues/4408)).
 
 </details>
 
