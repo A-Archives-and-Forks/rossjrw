@@ -197,5 +197,34 @@
     "fromPosition": 0,
     "toPosition": 1,
     "roll": 1
+  },
+  {
+    "username": "Casper-Guo",
+    "issue": 4421,
+    "time": "2026-04-13T16:35:30.899Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/001a09e1e1428c37d799fde50ec92cb62b78825c/games/current/board.4421.svg",
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 1,
+    "roll": 1
+  },
+  {
+    "username": "Casper-Guo",
+    "issue": 4421,
+    "time": "2026-04-13T16:35:30.899Z",
+    "team": "w",
+    "action": "pass",
+    "boardImage": null,
+    "events": null,
+    "fromPosition": null,
+    "toPosition": null,
+    "roll": 0
   }
 ]
