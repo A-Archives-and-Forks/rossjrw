@@ -1068,7 +1068,7 @@
     "time": "2026-04-25T05:37:56.826Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/e51b331ae8bf141d4530a8db2daca0b6167b5e6b/games/current/board.4469.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -1078,5 +1078,22 @@
     "fromPosition": 4,
     "toPosition": 6,
     "roll": 2
+  },
+  {
+    "username": "Foxcirc",
+    "issue": 4470,
+    "time": "2026-04-26T03:04:04.882Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": true,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 3,
+    "toPosition": 6,
+    "roll": 3
   }
 ]
