@@ -1624,7 +1624,7 @@
     "time": "2026-04-28T19:50:12.635Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/b1b86b991bcf76e37a8aa411163da3fe9e9ef125/games/current/board.4501.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -1633,6 +1633,23 @@
     },
     "fromPosition": 13,
     "toPosition": 15,
+    "roll": 2
+  },
+  {
+    "username": "saiman7",
+    "issue": 4502,
+    "time": "2026-04-28T23:56:57.992Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 2,
     "roll": 2
   }
 ]
