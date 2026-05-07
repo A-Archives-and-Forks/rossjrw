@@ -2214,7 +2214,7 @@
     "time": "2026-05-07T14:47:24.875Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/a0ad3c6cafb9253b585d4597b7539c3db7938aeb/games/current/board.4535.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -2224,5 +2224,22 @@
     "fromPosition": 4,
     "toPosition": 7,
     "roll": 3
+  },
+  {
+    "username": "distopi",
+    "issue": 4536,
+    "time": "2026-05-07T16:41:16.981Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 2,
+    "toPosition": 4,
+    "roll": 2
   }
 ]
