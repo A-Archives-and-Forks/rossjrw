@@ -2333,7 +2333,7 @@
     "time": "2026-05-08T01:32:31.523Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/552d04a962c5f2b6fa0256b113614e925cf25a68/games/current/board.4542.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -2342,6 +2342,23 @@
     },
     "fromPosition": 0,
     "toPosition": 1,
+    "roll": 1
+  },
+  {
+    "username": "traseox",
+    "issue": 4543,
+    "time": "2026-05-08T07:37:47.830Z",
+    "team": "w",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": true,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 3,
+    "toPosition": 4,
     "roll": 1
   }
 ]
