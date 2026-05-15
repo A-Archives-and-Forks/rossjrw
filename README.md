@@ -10,17 +10,16 @@ You're on a team! :wave:
 * If you've not yet played a turn this game, make a move now to join the **:black_circle:black** team.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4559.svg">
+  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4560.svg">
 </p>
 
-**:black_circle:Black team:** You rolled a 4!
+**:black_circle:Black team:** You rolled a 2!
 What would you like to do?
 
 | Choices *(pick one of them!)* |
 | --- |
-  | [:rosette:    Move a new piece to tile 4](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-4%400-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
-  | [    Move the piece on tile 3 to tile 7](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-4%403-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
-  | [    Move the piece on tile 6 to tile 10](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-4%406-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move the piece on tile 3 to tile 5](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%403-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [:rosette:    Move the piece on tile 6 to tile 8](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%406-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
 
 -----
 
@@ -39,7 +38,7 @@ What would you like to do?
         <td>:white_circle: <b> White team</b></td>
       </tr>
       <tr align="center">
-        <td><b><img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> <a href="https://github.com/Casper-Guo">Casper-Guo</a></b> (43)<br><b><img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> <a href="https://github.com/LucasFASouza">LucasFASouza</a></b> (23)<br><b><img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> <a href="https://github.com/AdityaSreevatsaK">AdityaSreevatsaK</a></b> (7)<br><b><img src="https://github.com/Foxcirc.png?size=16" alt="" width="16"> <a href="https://github.com/Foxcirc">Foxcirc</a></b> (1)<br><b><img src="https://github.com/distopi.png?size=16" alt="" width="16"> <a href="https://github.com/distopi">distopi</a></b> (1)<br><b><img src="https://github.com/not-fritos.png?size=16" alt="" width="16"> <a href="https://github.com/not-fritos">not-fritos</a></b> (1)</td>
+        <td><b><img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> <a href="https://github.com/Casper-Guo">Casper-Guo</a></b> (43)<br><b><img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> <a href="https://github.com/LucasFASouza">LucasFASouza</a></b> (24)<br><b><img src="https://github.com/AdityaSreevatsaK.png?size=16" alt="" width="16"> <a href="https://github.com/AdityaSreevatsaK">AdityaSreevatsaK</a></b> (7)<br><b><img src="https://github.com/Foxcirc.png?size=16" alt="" width="16"> <a href="https://github.com/Foxcirc">Foxcirc</a></b> (1)<br><b><img src="https://github.com/distopi.png?size=16" alt="" width="16"> <a href="https://github.com/distopi">distopi</a></b> (1)<br><b><img src="https://github.com/not-fritos.png?size=16" alt="" width="16"> <a href="https://github.com/not-fritos">not-fritos</a></b> (1)</td>
         <td><b><img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> <a href="https://github.com/MatissesProjects">MatissesProjects</a></b> (57)<br><b><img src="https://github.com/tassiaaccioly.png?size=16" alt="" width="16"> <a href="https://github.com/tassiaaccioly">tassiaaccioly</a></b> (15)<br><b><img src="https://github.com/guru2050.png?size=16" alt="" width="16"> <a href="https://github.com/guru2050">guru2050</a></b> (1)<br><b><img src="https://github.com/saiman7.png?size=16" alt="" width="16"> <a href="https://github.com/saiman7">saiman7</a></b> (1)<br><b><img src="https://github.com/traseox.png?size=16" alt="" width="16"> <a href="https://github.com/traseox">traseox</a></b> (1)</td>
       </tr>
     </tbody>
@@ -51,7 +50,8 @@ Moves played in this game, most recent first:
 
 | Time | Turn | Event | Issue | Board |
 | :---: | :---: | :--- | :---: | :---: |
-| 15th May 2026 22:54 | **164** | :white_circle:  The white team rolled a 2 and their turn was automatically passed | [#4559](https://github.com/rossjrw/rossjrw/issues/4559) |  |
+| 15th May 2026 22:55 | **165** | :black_circle: <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** moved a black piece onto the board to position 4  — claimed a rosette :rosette:  | [#4560](https://github.com/rossjrw/rossjrw/issues/4560) |  |
+| 15th May 2026 22:54 | **164** | :white_circle:  The white team rolled a 2 and their turn was automatically passed | [#4559](https://github.com/rossjrw/rossjrw/issues/4559) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/f0a19d1abdf9515ca19a67ac4b108ebe5ea8f2d1/games/current/board.4559.svg) |
 | 15th May 2026 22:54 | **163** | :black_circle: <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** ascended a black piece from position 14 :rocket:    | [#4559](https://github.com/rossjrw/rossjrw/issues/4559) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/8c37cf00caad0a1c8309ee69cf31f7f61b3d6fb9/games/current/board.4559.svg) |
 | 15th May 2026 22:54 | **162** | :white_circle:  The white team rolled a 2 and their turn was automatically passed | [#4558](https://github.com/rossjrw/rossjrw/issues/4558) |  |
 | 15th May 2026 22:54 | **161** | :black_circle: <img src="https://github.com/LucasFASouza.png?size=16" alt="" width="16"> **[LucasFASouza](https://github.com/LucasFASouza)** moved a black piece from position 4 to position 6    | [#4558](https://github.com/rossjrw/rossjrw/issues/4558) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/1d0031ed1af25a1aee826d6315a65f6b51cb130a/games/current/board.4558.svg) |
