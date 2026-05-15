@@ -2750,5 +2750,34 @@
     "fromPosition": 6,
     "toPosition": 8,
     "roll": 2
+  },
+  {
+    "username": "LucasFASouza",
+    "issue": 4562,
+    "time": "2026-05-15T22:56:05.603Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/0fa9163a469d537fc640cd755830c05978e04977/games/current/board.4562.svg",
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 8,
+    "toPosition": 10,
+    "roll": 2
+  },
+  {
+    "username": "LucasFASouza",
+    "issue": 4562,
+    "time": "2026-05-15T22:56:05.603Z",
+    "team": "w",
+    "action": "pass",
+    "boardImage": null,
+    "events": null,
+    "fromPosition": null,
+    "toPosition": null,
+    "roll": 2
   }
 ]
