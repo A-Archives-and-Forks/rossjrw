@@ -10,16 +10,16 @@ You're on a team! :wave:
 * If you've not yet played a turn this game, make a move now to join the **:black_circle:black** team.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4572.svg">
+  <img src="https://raw.githubusercontent.com/rossjrw/rossjrw/play/games/current/board.4573.svg">
 </p>
 
-**:black_circle:Black team:** You rolled a 1!
+**:black_circle:Black team:** You rolled a 2!
 What would you like to do?
 
 | Choices *(pick one of them!)* |
 | --- |
-  | [    Move a new piece to tile 1](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%400-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
-  | [:rosette:    Move the piece on tile 3 to tile 4](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-1%403-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move a new piece to tile 2](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%400-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
+  | [    Move the piece on tile 4 to tile 6](https://github.com/rossjrw/rossjrw/issues/new?title=ur-move-2%404-0&body=Press+Submit%21+You+don%27t+need+to+edit+this+text+or+do+anything+else.%0D%0A%0D%0ABe+aware+that+your+move+can+take+a+minute+or+two+to+process.) |
 
 -----
 
@@ -38,7 +38,7 @@ What would you like to do?
         <td>:white_circle: <b> White team</b></td>
       </tr>
       <tr align="center">
-        <td><b><img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> <a href="https://github.com/Casper-Guo">Casper-Guo</a></b> (1)</td>
+        <td><b><img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> <a href="https://github.com/Casper-Guo">Casper-Guo</a></b> (2)</td>
         <td><b><img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> <a href="https://github.com/MatissesProjects">MatissesProjects</a></b> (3)</td>
       </tr>
     </tbody>
@@ -50,7 +50,8 @@ Moves played in this game, most recent first:
 
 | Time | Turn | Event | Issue | Board |
 | :---: | :---: | :--- | :---: | :---: |
-| 16th May 2026 14:34 | **4** | :white_circle: <img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> **[MatissesProjects](https://github.com/MatissesProjects)** moved a white piece onto the board to position 2    | [#4572](https://github.com/rossjrw/rossjrw/issues/4572) |  |
+| 16th May 2026 14:35 | **5** | :black_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** moved a black piece from position 3 to position 4  — claimed a rosette :rosette:  | [#4573](https://github.com/rossjrw/rossjrw/issues/4573) |  |
+| 16th May 2026 14:34 | **4** | :white_circle: <img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> **[MatissesProjects](https://github.com/MatissesProjects)** moved a white piece onto the board to position 2    | [#4572](https://github.com/rossjrw/rossjrw/issues/4572) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/410d28874e0b0712e6708f0cd490b3ba24475957/games/current/board.4572.svg) |
 | 16th May 2026 01:39 | **3** | :black_circle: <img src="https://github.com/Casper-Guo.png?size=16" alt="" width="16"> **[Casper-Guo](https://github.com/Casper-Guo)** moved a black piece onto the board to position 3    | [#4571](https://github.com/rossjrw/rossjrw/issues/4571) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/76b6949008e89578047fad2a6944c3099a14e286/games/current/board.4571.svg) |
 | 16th May 2026 01:35 | **2** | :white_circle: <img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> **[MatissesProjects](https://github.com/MatissesProjects)** moved a white piece onto the board to position 1    | [#4570](https://github.com/rossjrw/rossjrw/issues/4570) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/cf0947bfdbf93af6252da4db592dd1904e1d98db/games/current/board.4570.svg) |
 | 16th May 2026 01:35 | **1** | :white_circle: <img src="https://github.com/MatissesProjects.png?size=16" alt="" width="16"> **[MatissesProjects](https://github.com/MatissesProjects)** started a new game | [#4569](https://github.com/rossjrw/rossjrw/issues/4569) | [link](https://raw.githubusercontent.com/rossjrw/rossjrw/e850f36a9f46b51f5cba2e4c6fe58e212fde804b/games/current/board.4569.svg) |
