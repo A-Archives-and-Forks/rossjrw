@@ -153,7 +153,7 @@
     "time": "2026-05-24T15:37:09.314Z",
     "team": "b",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/040e5e78b084d5ca7dd9cc6b7049c5068e41de35/games/current/board.4578.svg",
     "events": {
       "rosetteClaimed": true,
       "captureHappened": false,
@@ -163,5 +163,22 @@
     "fromPosition": 2,
     "toPosition": 4,
     "roll": 2
+  },
+  {
+    "username": "lantgabor",
+    "issue": 4579,
+    "time": "2026-06-08T16:54:41.599Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 6,
+    "toPosition": 7,
+    "roll": 1
   }
 ]
