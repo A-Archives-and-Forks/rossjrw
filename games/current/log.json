@@ -233,7 +233,7 @@
     "time": "2026-06-08T17:12:36.706Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/f88cdc46805cbe7f660702e1a080a0fea99906d4/games/current/board.4582.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -243,5 +243,22 @@
     "fromPosition": 4,
     "toPosition": 7,
     "roll": 3
+  },
+  {
+    "username": "AnuragChowdhury",
+    "issue": 4584,
+    "time": "2026-06-10T08:56:59.462Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 2,
+    "roll": 2
   }
 ]
