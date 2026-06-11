@@ -330,7 +330,7 @@
     "time": "2026-06-11T15:55:29.782Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/e9e15e5b2fe90983dd958b9aaf3fa10c95719d93/games/current/board.4588.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -339,6 +339,23 @@
     },
     "fromPosition": 8,
     "toPosition": 11,
+    "roll": 3
+  },
+  {
+    "username": "grvig",
+    "issue": 4589,
+    "time": "2026-06-11T16:49:53.772Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 3,
     "roll": 3
   }
 ]
