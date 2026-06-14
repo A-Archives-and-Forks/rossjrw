@@ -398,7 +398,7 @@
     "time": "2026-06-11T18:39:06.086Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/683b0179a8eec76e926b818808caa0cfd6059016/games/current/board.4592.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": true,
@@ -407,6 +407,23 @@
     },
     "fromPosition": 3,
     "toPosition": 5,
+    "roll": 2
+  },
+  {
+    "username": "KidIsKing",
+    "issue": 4593,
+    "time": "2026-06-14T09:49:49.553Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 2,
     "roll": 2
   }
 ]
