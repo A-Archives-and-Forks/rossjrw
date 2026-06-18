@@ -466,7 +466,7 @@
     "time": "2026-06-15T14:59:17.474Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/e58cd79451e2187459232f8e513ea4a7db1e7f78/games/current/board.4596.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -476,5 +476,22 @@
     "fromPosition": 0,
     "toPosition": 3,
     "roll": 3
+  },
+  {
+    "username": "LucasFASouza",
+    "issue": 4597,
+    "time": "2026-06-18T17:45:02.748Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 5,
+    "toPosition": 6,
+    "roll": 1
   }
 ]
