@@ -534,7 +534,7 @@
     "time": "2026-06-24T17:04:07.737Z",
     "team": "w",
     "action": "move",
-    "boardImage": null,
+    "boardImage": "https://raw.githubusercontent.com/rossjrw/rossjrw/9b704c92978e3bb93008107601a5186fbba005f6/games/current/board.4600.svg",
     "events": {
       "rosetteClaimed": false,
       "captureHappened": false,
@@ -543,6 +543,23 @@
     },
     "fromPosition": 14,
     "toPosition": 15,
+    "roll": 1
+  },
+  {
+    "username": "Tejakshaya",
+    "issue": 4601,
+    "time": "2026-06-24T20:43:05.322Z",
+    "team": "b",
+    "action": "move",
+    "boardImage": null,
+    "events": {
+      "rosetteClaimed": false,
+      "captureHappened": false,
+      "ascensionHappened": false,
+      "gameWon": false
+    },
+    "fromPosition": 0,
+    "toPosition": 1,
     "roll": 1
   }
 ]
